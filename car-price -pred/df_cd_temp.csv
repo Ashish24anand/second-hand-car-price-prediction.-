@@ -1,0 +1,570 @@
+,Fuel,KMs Driven,Engine,Seats,Make Year,Transmission,RTO,Mileage,No Of Owner(s),name,price
+0,Diesel,"86,698 kms",1248 CC,5,2017,Manual,GJ01,25.1 kmpl,First Owner,Maruti S-Cross 2017-2020 Alpha DDiS 200 SH,Rs.6.6 Lakh*
+1,Diesel,"1,45,814 kms",1396 CC,5,2012,Manual,GJ05,23.0 kmpl,First Owner,Hyundai i20 1.4 CRDi Sportz,Rs.2.36 Lakh*
+2,Diesel,"98,070 kms",1364 CC,5,2013,Manual,GJ01,23.59 kmpl,First Owner,Toyota Etios GD,Rs.3.52 Lakh*
+3,Diesel,"65,182 kms",936 CC,5,2016,Manual,GJ01,25.44 kmpl,Second Owner,Chevrolet Beat Diesel LT,Rs.1.74 Lakh*
+4,Diesel,"1,00,821 kms",1248 CC,5,2014,Manual,GJ27,25.2 kmpl,First Owner,Maruti Swift LDI BSIV,Rs.3.04 Lakh*
+5,Diesel,"1,61,779 kms",2498 CC,8,2011,Manual,GJ02,14.0 kmpl,First Owner,Mahindra Xylo E8,Rs.1.41 Lakh*
+6,Diesel,"55,900 kms",1248 CC,5,2018,Manual,GJ01,24.3 kmpl,First Owner,Maruti Vitara Brezza VDi Option,Rs.8.15 Lakh*
+7,Diesel,"42,000 kms",1248 CC,7,2016,Manual,GJ01,24.52 kmpl,First Owner,Maruti Ertiga SHVS VDI,Rs.7.4 Lakh*
+8,Diesel,"78,000 kms",2199 CC,7,2014,Automatic,GJ01,13.01 kmpl,First Owner,Hyundai Santa Fe 2WD AT,Rs.12.51 Lakh*
+9,Diesel,"35,000 kms",1493 CC,5,2019,Automatic,GJ01,17.8 kmpl,First Owner,Kia Seltos HTX Plus AT D,Rs.15.75 Lakh*
+10,Diesel,"45,000 kms",1248 CC,5,2016,Manual,GJ01,24.3 kmpl,First Owner,Maruti Vitara Brezza ZDi Plus,Rs.7.5 Lakh*
+11,Diesel,"67,000 kms",1399 CC,5,2013,Manual,GJ18,20.0 kmpl,First Owner,Ford Figo Diesel ZXI,Rs.2.2 Lakh*
+12,Petrol,"11,900 kms",1591 CC,5,2019,Automatic,GJ06,17.0 kmpl,First Owner,Hyundai Verna VTVT 1.6 AT SX Plus,Rs.11.35 Lakh*
+13,Diesel,"74,000 kms",1248 CC,5,2013,Manual,GJ01,22.9 kmpl,First Owner,Maruti Swift VDI,Rs.4.15 Lakh*
+14,Petrol,"77,000 kms",1198 CC,5,2014,Automatic,GJ27,19.34 kmpl,Second Owner,Nissan Micra XV CVT,Rs.3.5 Lakh*
+15,Diesel,"41,000 kms",1186 CC,5,2018,Manual,GJ02,24.0 kmpl,First Owner,Hyundai Grand i10 1.2 CRDi Magna,Rs.5.15 Lakh*
+16,Petrol,"87,000 kms",1196 CC,5,2017,Manual,GJ01,15.37 kmpl,First Owner,Maruti Eeco 5 Seater AC BSIV,Rs.4.15 Lakh*
+17,Diesel,"82,486 kms",1248 CC,5,2015,Manual,GJ18,28.4 kmpl,First Owner,Maruti Swift VDI,Rs.4.9 Lakh*
+18,Diesel,"57,000 kms",1396 CC,5,2018,Manual,GJ27,22.1 kmpl,First Owner,Hyundai Creta 1.4 E Plus,Rs.9.75 Lakh*
+19,Diesel,"95,106 kms",1582 CC,5,2015,Automatic,GJ01,17.01 kmpl,First Owner,Hyundai Creta 1.6 CRDi AT SX Plus,Rs.9 Lakh*
+20,Petrol,"38,000 kms",1199 CC,5,2019,Manual,GJ18,23.84 kmpl,First Owner,Tata Tiago 1.2 Revotron XT,Rs.4.9 Lakh*
+21,Diesel,"55,000 kms",1461 CC,7,2015,Manual,GJ01,19.3 kmpl,First Owner,Nissan Evalia XL,Rs.4.9 Lakh*
+22,Petrol,"28,000 kms",796 CC,5,2010,Manual,GJ01,19.7 kmpl,First Owner,Maruti Alto LXi,Rs.2.05 Lakh*
+23,Diesel,"65,221 kms",1582 CC,5,2014,Automatic,GJ01,19.5 kmpl,Second Owner,Hyundai Elantra CRDi SX AT,Rs.5.75 Lakh*
+24,Petrol,"63,000 kms",1197 CC,5,2016,Automatic,GJ01,18.9 kmpl,First Owner,Hyundai Grand i10 Asta Option AT,Rs.5.5 Lakh*
+25,Diesel,"38,000 kms",1396 CC,5,2014,Manual,GJ01,22.54 kmpl,First Owner,Hyundai i20 Sportz 1.4 CRDi,Rs.4.9 Lakh*
+26,Diesel,"74,000 kms",1498 CC,5,2016,Manual,GJ01,22.77 kmpl,First Owner,Ford EcoSport 1.5 TDCi Titanium Plus BSIV,Rs.7.25 Lakh*
+27,Diesel,"41,665 kms",1498 CC,7,2015,Manual,GJ03,24.2 kmpl,First Owner,Honda Mobilio S i DTEC,Rs.5.35 Lakh*
+28,Diesel,"16,000 kms",2987 CC,5,2019,Automatic,GJ1X,17.0 kmpl,First Owner,Mercedes-Benz E-Class E 350d,Rs.62 Lakh*
+29,Diesel,"16,000 kms",2987 CC,5,2019,Automatic,GJ1X,17.0 kmpl,First Owner,Mercedes-Benz E-Class E 350d,Rs.62 Lakh*
+30,Diesel,"22,700 kms",2755 CC,7,2017,Automatic,GJ01,11.36 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.8 GX AT BSIV,Rs.17.9 Lakh*
+31,Petrol,"2,500 kms",1591 CC,5,2020,Manual,GJ01,17.0 kmpl,First Owner,Hyundai Verna VTVT 1.6 SX Option,Rs.12.35 Lakh*
+32,Diesel,"52,000 kms",1396 CC,5,2017,Manual,GJ07,22.54 kmpl,First Owner,Hyundai i20 2015-2017 Magna 1.4 CRDi,Rs.5.75 Lakh*
+33,Diesel,"19,376 kms",1498 CC,5,2018,Manual,GJ01,23.0 kmpl,First Owner,Ford EcoSport 1.5 Diesel Titanium BSIV,Rs.9.25 Lakh*
+34,Diesel,"73,000 kms",1582 CC,5,2016,Manual,GJ1R,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Option,Rs.9.75 Lakh*
+35,Petrol,"34,001 kms",1198 CC,5,2013,Manual,GJ01,19.4 kmpl,First Owner,Honda Brio S MT,Rs.3.65 Lakh*
+36,Diesel,"47,638 kms",1498 CC,5,2017,Manual,GJ01,26.0 kmpl,First Owner,Honda City i DTec V,Rs.8.5 Lakh*
+37,Diesel,"74,000 kms",1968 CC,5,2014,Automatic,GJ02,17.11 kmpl,First Owner,Audi A4 2.0 TDI 177 Bhp Premium Plus,Rs.15.51 Lakh*
+38,Diesel,"68,000 kms",1248 CC,5,2012,Manual,GJ01,22.9 kmpl,First Owner,Maruti Swift ZDi,Rs.3.9 Lakh*
+39,Diesel,"39,700 kms",1186 CC,5,2017,Manual,GJ27,24.0 kmpl,First Owner,Hyundai Grand i10 1.2 CRDi Asta,Rs.5.75 Lakh*
+40,Petrol,"61,000 kms",1086 CC,5,2009,Manual,GJ12,15.0 kmpl,First Owner,Hyundai Getz 1.1 GVS,Rs.1.75 Lakh*
+41,Petrol,"75,000 kms",1298 CC,5,2009,Manual,GJ01,16.1 kmpl,Second Owner,Maruti Swift Lxi BSIII,Rs.2.65 Lakh*
+42,Diesel,"74,000 kms",1997 CC,7,2015,Manual,GJ18,16.0 kmpl,First Owner,Mahindra XUV500 W6 1.99 mHawk,Rs.6.5 Lakh*
+43,Petrol,"31,403 kms",1197 CC,5,2014,Manual,GJ01,18.9 kmpl,First Owner,Hyundai Grand i10 Sportz,Rs.4.65 Lakh*
+44,Diesel,"11,000 kms",1956 CC,5,2020,Automatic,GJ01,17.0 kmpl,First Owner,Tata Harrier XZA Plus AT,Rs.19.9 Lakh*
+45,Diesel,"58,000 kms",2987 CC,5,2014,Automatic,GJ01,13.5 kmpl,First Owner,Mercedes-Benz S-Class S 350 CDI,Rs.34 Lakh*
+46,Diesel,"48,000 kms",2143 CC,5,2016,Automatic,GJ05,13.0 kmpl,Second Owner,Mercedes-Benz E-Class E250 CDI Avantgarde,Rs.26.51 Lakh*
+47,Petrol,"58,000 kms",1061 CC,5,2009,Manual,GJ01,18.9 kmpl,Second Owner,Maruti Wagon R LXI Minor,Rs.1.8 Lakh*
+48,Diesel,"43,000 kms",1248 CC,5,2017,Automatic,GJ06,28.4 kmpl,First Owner,Maruti Swift Dzire AMT ZDI Plus,Rs.6.75 Lakh*
+49,Petrol,"90,815 kms",1493 CC,5,2004,Manual,GJ01,12.8 kmpl,Third Owner,Honda City 1.5 GXI,Rs.1.65 Lakh*
+50,Diesel,"68,000 kms",1248 CC,5,2016,Manual,GJ27,23.65 kmpl,First Owner,Maruti SX4 S Cross DDiS 200 Delta,Rs.5.95 Lakh*
+51,Diesel,"71,003 kms",1968 CC,5,2014,Automatic,GJ01,15.73 kmpl,First Owner,Audi Q3 35 TDI Quattro Premium,Rs.16.5 Lakh*
+52,Diesel,"46,000 kms",2198 CC,7,2018,Automatic,GJ18,12.62 kmpl,First Owner,Ford Endeavour 2.2 Titanium AT 4X2 Sunroof,Rs.25 Lakh*
+53,Diesel,"87,000 kms",1968 CC,5,2012,Manual,GJ03,19.33 kmpl,Second Owner,Volkswagen Jetta 2.0L TDI Comfortline,Rs.4.25 Lakh*
+54,Diesel,"30,000 kms",2198 CC,7,2019,Manual,GJ06,14.2 kmpl,First Owner,Ford Endeavour Titanium 4X2,Rs.29.5 Lakh*
+55,Petrol,"28,707 kms",1498 CC,5,2019,Automatic,GJ01,18.4 kmpl,First Owner,Honda City V CVT,Rs.10.5 Lakh*
+56,Diesel,"72,000 kms",1498 CC,5,2017,Manual,GJ01,23.0 kmpl,First Owner,Ford EcoSport 1.5 Diesel Ambiente BSIV,Rs.6.75 Lakh*
+57,Diesel,"95,000 kms",1364 CC,5,2012,Manual,GJ01,23.59 kmpl,Second Owner,Toyota Etios VD,Rs.3.9 Lakh*
+58,Petrol,"38,500 kms",999 CC,5,2019,Manual,GJ06,18.78 kmpl,First Owner,Volkswagen Polo 2015-2019 1.0 MPI Highline Plus,Rs.6.9 Lakh*
+59,Petrol,"65,000 kms",998 CC,5,2011,Manual,GJ01,18.9 kmpl,First Owner,Maruti Wagon R VXI BS IV with ABS,Rs.2.75 Lakh*
+60,Diesel,"72,000 kms",2494 CC,8,2013,Manual,GJ01,12.99 kmpl,First Owner,Toyota Innova 2.5 G (Diesel) 8 Seater,Rs.5.25 Lakh*
+61,Diesel,"89,000 kms",1461 CC,5,2014,Manual,GJ27,19.01 kmpl,First Owner,Renault Duster 110PS Diesel RxL,Rs.5.25 Lakh*
+62,Diesel,"55,000 kms",1598 CC,5,2012,Manual,GJ27,20.54 kmpl,First Owner,Volkswagen Vento Diesel Comfortline,Rs.3.3 Lakh*
+63,Diesel,"65,000 kms",2982 CC,7,2010,Manual,GJ01,11.5 kmpl,Second Owner,Toyota Fortuner 3.0 Diesel,Rs.8.9 Lakh*
+64,Petrol,"24,000 kms",1196 CC,5,2010,Manual,GJ01,16.11 kmpl,First Owner,Maruti Eeco 5 Seater AC,Rs.2.9 Lakh*
+65,Diesel,"54,000 kms",1498 CC,7,2017,Manual,GJ01,21.9 kmpl,First Owner,Honda BRV i-DTEC S MT,Rs.7.9 Lakh*
+66,Petrol,"23,000 kms",998 CC,5,2018,Automatic,GJ27,21.79 kmpl,First Owner,Maruti Wagon R VXI AMT,Rs.5.15 Lakh*
+67,Petrol,"13,300 kms",1497 CC,5,2019,Automatic,GJ01,18.0 kmpl,First Owner,Honda City i-VTEC CVT V,Rs.12 Lakh*
+68,Petrol,"28,000 kms",1199 CC,5,2018,Automatic,GJ27,18.2 kmpl,First Owner,Honda Jazz VX CVT,Rs.8.25 Lakh*
+69,Diesel,"68,000 kms",1598 CC,5,2011,Manual,GJ01,20.54 kmpl,First Owner,Volkswagen Vento Diesel Highline,Rs.3.3 Lakh*
+70,Diesel,"54,000 kms",1582 CC,5,2017,Manual,GJ06,22.0 kmpl,First Owner,Hyundai Verna CRDi 1.6 SX,Rs.7 Lakh*
+71,Petrol,"68,000 kms",998 CC,5,2008,Manual,GJ01,21.79 kmpl,Second Owner,Maruti Wagon R LXI,Rs.1.9 Lakh*
+72,Diesel,"51,000 kms",1498 CC,5,2016,Manual,GJ01,22.77 kmpl,First Owner,Ford EcoSport 1.5 TDCi Titanium BSIV,Rs.7.5 Lakh*
+73,Diesel,"64,000 kms",1582 CC,5,2015,Manual,GJ01,22.32 kmpl,First Owner,Hyundai Verna 1.6 SX CRDi (O),Rs.6.49 Lakh*
+74,Petrol,"11,000 kms",999 CC,5,2018,Automatic,GJ01,22.5 kmpl,First Owner,Datsun RediGO AMT 1.0 T Option,Rs.4.25 Lakh*
+75,Diesel,"65,000 kms",2179 CC,7,2016,Manual,GJ1R,16.0 kmpl,First Owner,Mahindra XUV500 W6 2WD,Rs.8.5 Lakh*
+76,Petrol,"64,000 kms",1497 CC,5,2016,Automatic,GJ01,18.0 kmpl,First Owner,Honda City i VTEC CVT VX,Rs.8.4 Lakh*
+77,Diesel,"50,000 kms",1498 CC,5,2018,Manual,GJ01,23.0 kmpl,First Owner,Ford EcoSport 1.5 Diesel Titanium BSIV,Rs.8.25 Lakh*
+78,Petrol,"75,000 kms",814 CC,5,2014,Manual,GJ27,21.1 kmpl,Second Owner,Hyundai EON Sportz,Rs.2.75 Lakh*
+79,Diesel,"68,000 kms",1995 CC,5,2017,Automatic,GJ18,22.69 kmpl,First Owner,BMW 3 Series 320d Luxury Line,Rs.25.9 Lakh*
+80,Diesel,"47,000 kms",2179 CC,5,2016,Automatic,GJ18,16.36 kmpl,First Owner,Jaguar XF 2.2 Litre Luxury,Rs.23.9 Lakh*
+81,Petrol,"65,000 kms",1197 CC,5,2009,Manual,GJ1K,20.36 kmpl,First Owner,Hyundai i10 Sportz 1.2,Rs.2.25 Lakh*
+82,Diesel,"62,000 kms",1248 CC,5,2014,Manual,GJ25,23.4 kmpl,Second Owner,Maruti Swift Dzire VDI,Rs.4.75 Lakh*
+83,Diesel,"62,000 kms",1248 CC,5,2016,Manual,GJ06,23.65 kmpl,First Owner,Maruti SX4 S Cross DDiS 200 Alpha,Rs.5.9 Lakh*
+84,Petrol,"4,90,00 kms",1197 CC,5,2019,Manual,GJ01,18.9 kmpl,First Owner,Hyundai Grand i10 Sportz,Rs.5.75 Lakh*
+85,Diesel,"76,900 kms",1120 CC,5,2014,Manual,GJ01,24.0 kmpl,First Owner,Hyundai Grand i10 CRDi Asta Option,Rs.4.5 Lakh*
+86,Diesel,"68,000 kms",2523 CC,7,2016,Manual,GJ01,15.96 kmpl,Second Owner,Mahindra Bolero 2011-2019 SLE,Rs.5.51 Lakh*
+87,Diesel,"68,000 kms",1995 CC,5,2012,Automatic,GJ01,13.2 kmpl,First Owner,BMW 3 Series 320d,Rs.15.5 Lakh*
+88,Petrol,"65,329 kms",1798 CC,5,2010,Manual,GJ01,14.3 kmpl,First Owner,Volkswagen Passat 1.8 TSI MT,Rs.5.25 Lakh*
+89,Petrol,"44,721 kms",1198 CC,5,2012,Manual,GJ01,19.4 kmpl,First Owner,Honda Brio S MT,Rs.3.45 Lakh*
+90,Diesel,"30,486 kms",1950 CC,5,2019,Automatic,GJ18,16.1 kmpl,First Owner,Mercedes-Benz E-Class Exclusive E 220 d BSIV,Rs.48 Lakh*
+91,Diesel,"67,000 kms",1498 CC,5,2014,Manual,GJ02,25.8 kmpl,First Owner,Honda Amaze S i-Dtech,Rs.4.4 Lakh*
+92,Diesel,"19,001 kms",1186 CC,5,2016,Manual,GJ01,25.4 kmpl,First Owner,Hyundai Xcent 1.2 CRDi SX,Rs.5.75 Lakh*
+93,Petrol,"55,417 kms",1598 CC,5,2011,Manual,GJ01,15.04 kmpl,First Owner,Volkswagen Vento Petrol Highline,Rs.3.75 Lakh*
+94,Petrol,"85,341 kms",2354 CC,5,2008,Manual,GJ01,12.8 kmpl,Second Owner,Honda New Accord 2008-2011 2.4 MT,Rs.3 Lakh*
+95,Petrol,"73,000 kms",1197 CC,5,2018,Manual,GJ01,21.21 kmpl,First Owner,Maruti Swift Dzire VXI 1.2,Rs.6.9 Lakh*
+96,Diesel,"66,000 kms",1248 CC,5,2016,Manual,GJ06,26.59 kmpl,First Owner,Maruti Swift Dzire LDI Optional,Rs.4.85 Lakh*
+97,Petrol,"21,000 kms",1798 CC,5,2018,Automatic,GJ1X,15.1 kmpl,First Owner,Skoda Octavia 1.8 TSI AT L K,Rs.19.75 Lakh*
+98,Diesel,"6,700 kms",1493 CC,5,2020,Manual,GJ08,21.4 kmpl,First Owner,Hyundai Creta SX Opt Diesel,Rs.16.9 Lakh*
+99,Diesel,"69,000 kms",1396 CC,5,2017,Manual,GJ01,22.54 kmpl,First Owner,Hyundai i20 2015-2017 Sportz 1.4 CRDi,Rs.6.5 Lakh*
+100,Diesel,"38,000 kms",1364 CC,5,2013,Manual,GJ01,23.59 kmpl,First Owner,Toyota Etios Liva GD,Rs.4.25 Lakh*
+101,Diesel,"20,634 kms",1248 CC,5,2017,Manual,GJ01,19.3 kmpl,First Owner,Maruti Swift Dzire VDi,Rs.6.49 Lakh*
+102,Petrol,"85,000 kms",1796 CC,5,2010,Automatic,GJ01,11.74 kmpl,First Owner,Mercedes-Benz C-Class C 200 CGI Elegance,Rs.8.5 Lakh*
+103,Petrol,"55,000 kms",1497 CC,5,2016,Automatic,GJ01,18.0 kmpl,First Owner,Honda City i VTEC CVT VX,Rs.8.78 Lakh*
+104,Diesel,"14,667 kms",1968 CC,5,2018,Automatic,GJ01,18.25 kmpl,First Owner,Audi A4 35 TDI Premium Plus,Rs.32 Lakh*
+105,Diesel,"73,000 kms",1461 CC,5,2014,Manual,GJ18,21.64 kmpl,Second Owner,Nissan Sunny Diesel XL,Rs.3.45 Lakh*
+106,Petrol,"28,000 kms",1197 CC,5,2018,Manual,GJ23,21.01 kmpl,First Owner,Maruti Baleno Alpha,Rs.7 Lakh*
+107,Diesel,"65,000 kms",1498 CC,5,2014,Manual,GJ18,26.0 kmpl,First Owner,Honda City i DTEC V,Rs.5.21 Lakh*
+108,Diesel,"40,000 kms",2523 CC,7,2016,Manual,GJ01,18.06 kmpl,First Owner,Mahindra Thar DI 4X4,Rs.7.5 Lakh*
+109,Diesel,"40,000 kms",2523 CC,7,2016,Manual,GJ01,18.06 kmpl,First Owner,Mahindra Thar DI 4X4,Rs.7.5 Lakh*
+110,Diesel,"49,000 kms",2755 CC,7,2018,Manual,GJ16,14.24 kmpl,First Owner,Toyota Fortuner 2016-2021 2.8 2WD MT,Rs.27 Lakh*
+111,Diesel,"55,663 kms",1198 CC,6,2016,Manual,GJ18,25.32 kmpl,First Owner,Mahindra KUV 100 mFALCON D75 K6,Rs.2.79 Lakh*
+112,Diesel,"48,570 kms",1248 CC,5,2015,Manual,GJ27,28.4 kmpl,First Owner,Maruti Swift Dzire VDI,Rs.4.86 Lakh*
+113,Diesel,"98,070 kms",1364 CC,5,2013,Manual,GJ01,23.59 kmpl,First Owner,Toyota Etios GD,Rs.3.52 Lakh*
+114,Diesel,"37,383 kms",1248 CC,5,2018,Automatic,GJ05,28.4 kmpl,First Owner,Maruti Swift AMT VDI,Rs.5.9 Lakh*
+115,Diesel,"67,000 kms",1461 CC,5,2011,Manual,GJ01,23.08 kmpl,Second Owner,Nissan Micra Diesel XV,Rs.2.25 Lakh*
+116,Petrol,"62,348 kms",1197 CC,5,2018,Manual,GJ01,21.21 kmpl,First Owner,Maruti Swift Dzire VXI 1.2,Rs.6.11 Lakh*
+117,Diesel,"22,000 kms",2967 CC,7,2017,Automatic,GJ05,14.75 kmpl,First Owner,Audi Q7 2006-2020 45 TDI Quattro Technology,Rs.58 Lakh*
+118,Diesel,"55,632 kms",1399 CC,5,2014,Manual,GJ01,20.0 kmpl,First Owner,Ford Figo Diesel Titanium,Rs.2.7 Lakh*
+119,Diesel,"68,000 kms",1364 CC,5,2013,Manual,GJ01,23.59 kmpl,First Owner,Toyota Etios GD,Rs.3.9 Lakh*
+120,Diesel,"76,000 kms",2494 CC,8,2009,Manual,GJ18,12.8 kmpl,Third Owner,Toyota Innova 2.5 G4 Diesel 8-seater,Rs.4 Lakh*
+121,Diesel,"44,200 kms",1186 CC,5,2017,Manual,GJ01,24.0 kmpl,First Owner,Hyundai Grand i10 1.2 CRDi Magna,Rs.5.25 Lakh*
+122,Petrol,"28,000 kms",1198 CC,5,2016,Automatic,GJ16,15.5 kmpl,First Owner,Honda Amaze VX AT i-Vtech,Rs.6.9 Lakh*
+123,Diesel,"65,000 kms",1248 CC,5,2017,Manual,GJ18,23.65 kmpl,First Owner,Maruti SX4 S Cross DDiS 200 Alpha,Rs.7.75 Lakh*
+124,Petrol,"15,000 kms",1991 CC,5,2018,Automatic,GJ01,11.5 kmpl,First Owner,Mercedes-Benz GL-Class 300 4MATIC Sport,Rs.45 Lakh*
+125,Diesel,"18,000 kms",1995 CC,5,2019,Automatic,GJ6X,16.55 kmpl,First Owner,BMW X3 xDrive 20d Luxury Line,Rs.54 Lakh*
+126,Diesel,"1,01,000 kms",1968 CC,5,2017,Automatic,GJ3K,16.65 kmpl,First Owner,Volkswagen Tiguan 2.0 TDI Highline,Rs.21.5 Lakh*
+127,Diesel,"27,000 kms",2967 CC,7,2016,Automatic,GJ38,14.75 kmpl,First Owner,Audi Q7 2006-2020 45 TDI Quattro Premium Plus,Rs.52 Lakh*
+128,Diesel,"80,000 kms",1582 CC,5,2018,Automatic,GJ13,22.0 kmpl,First Owner,Hyundai Verna CRDi 1.6 AT SX Plus,Rs.10.5 Lakh*
+129,Diesel,"96,000 kms",2393 CC,7,2017,Automatic,GJ27,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 ZX AT,Rs.18.5 Lakh*
+130,Diesel,"67,000 kms",2143 CC,5,2015,Automatic,GJ1A,20.0 kmpl,Second Owner,Mercedes-Benz A-Class A200 CDI,Rs.14.5 Lakh*
+131,Petrol,"28,000 kms",799 CC,5,2016,Manual,GJ01,22.3 kmpl,First Owner,Renault KWID RXT,Rs.3.7 Lakh*
+132,Diesel,"52,000 kms",1396 CC,5,2017,Manual,GJ07,22.54 kmpl,First Owner,Hyundai i20 2015-2017 Magna 1.4 CRDi,Rs.5.75 Lakh*
+133,Diesel,"12,000 kms",1493 CC,5,2020,Automatic,GJ27,18.5 kmpl,First Owner,Hyundai Creta SX Diesel AT,Rs.18.45 Lakh*
+134,Diesel,"1,47,000 kms",1968 CC,5,2011,Automatic,GJ01,16.55 kmpl,First Owner,Audi A4 2.0 TDI,Rs.9.45 Lakh*
+135,Petrol,"55,000 kms",1598 CC,5,2014,Manual,GJ01,13.24 kmpl,First Owner,Nissan Terrano XL,Rs.4.75 Lakh*
+136,Diesel,"60,000 kms",2143 CC,5,2015,Automatic,GJ01,15.26 kmpl,First Owner,Mercedes-Benz M-Class ML 250 CDI,Rs.30 Lakh*
+137,Diesel,"65,243 kms",1248 CC,5,2015,Manual,GJ01,26.21 kmpl,First Owner,Maruti Ciaz VDi Plus,Rs.5.25 Lakh*
+138,Petrol,"76,385 kms",1086 CC,5,2011,Manual,GJ01,19.81 kmpl,First Owner,Hyundai i10 Era,Rs.2.75 Lakh*
+139,Diesel,"81,800 kms",1582 CC,5,2018,Automatic,GJ01,17.6 kmpl,First Owner,Hyundai Creta 1.6 SX Automatic Diesel,Rs.13.25 Lakh*
+140,Diesel,"85,000 kms",1498 CC,5,2017,Manual,GJ1R,25.5 kmpl,First Owner,Honda WR-V i-DTEC VX,Rs.7.9 Lakh*
+141,Diesel,"89,000 kms",2179 CC,7,2015,Manual,GJ18,16.0 kmpl,First Owner,Mahindra XUV500 W10 2WD,Rs.8.91 Lakh*
+142,Diesel,"52,793 kms",1248 CC,5,2018,Manual,GJ18,24.3 kmpl,First Owner,Maruti Vitara Brezza VDi,Rs.7.7 Lakh*
+143,Petrol,"42,000 kms",1198 CC,5,2016,Manual,GJ01,19.4 kmpl,First Owner,Honda Brio S MT,Rs.4 Lakh*
+144,Petrol,"37,000 kms",1497 CC,5,2016,Automatic,GJ01,18.0 kmpl,First Owner,Honda City i VTEC CVT VX,Rs.8.9 Lakh*
+145,Diesel,"89,000 kms",1995 CC,5,2013,Automatic,GJ01,18.12 kmpl,Second Owner,BMW 5 Series 520d Luxury Line,Rs.17.9 Lakh*
+146,Petrol,"51,000 kms",1462 CC,5,2018,Manual,GJ01,21.56 kmpl,First Owner,Maruti Ciaz Alpha BSIV,Rs.8.5 Lakh*
+147,Diesel,"48,700 kms",2179 CC,7,2017,Manual,GJ06,17.6 kmpl,First Owner,Tata Hexa XM,Rs.9.75 Lakh*
+148,Diesel,"64,000 kms",1582 CC,5,2018,Automatic,GJ12,17.01 kmpl,First Owner,Hyundai Creta 1.6 CRDi AT SX Plus,Rs.11.5 Lakh*
+149,Petrol,"85,000 kms",1197 CC,5,2012,Manual,GJ01,20.36 kmpl,Second Owner,Hyundai i10 Magna,Rs.2.7 Lakh*
+150,Diesel,"71,000 kms",1120 CC,5,2016,Manual,GJ01,24.0 kmpl,First Owner,Hyundai Grand i10 CRDi Sportz,Rs.4.5 Lakh*
+151,Diesel,"31,001 kms",1498 CC,5,2019,Manual,GJ01,26.82 kmpl,First Owner,Maruti Ciaz Alpha 1.5,Rs.9.25 Lakh*
+152,Diesel,"68,001 kms",1498 CC,5,2017,Manual,GJ01,25.83 kmpl,First Owner,Ford Aspire 1.5 TDCi Titanium,Rs.6 Lakh*
+153,Diesel,"21,764 kms",1461 CC,5,2013,Manual,GJ01,23.08 kmpl,First Owner,Renault Pulse RxL,Rs.3.5 Lakh*
+154,Diesel,"29,000 kms",1498 CC,5,2017,Manual,GJ01,21.66 kmpl,First Owner,Volkswagen Ameo 1.5 TDI Comfortline,Rs.6 Lakh*
+155,Diesel,"60,428 kms",1598 CC,5,2015,Manual,GJ18,22.7 kmpl,First Owner,Maruti SX4 S Cross DDiS 320 Delta,Rs.6.5 Lakh*
+156,Diesel,"65,000 kms",2494 CC,8,2014,Manual,GJ01,12.99 kmpl,Second Owner,Toyota Innova 2.5 GX (Diesel) 8 Seater,Rs.7.25 Lakh*
+157,Diesel,"17,700 kms",2179 CC,7,2020,Manual,GJ01,15.1 kmpl,First Owner,Mahindra XUV500 W7,Rs.13.9 Lakh*
+158,Petrol,"5,000 kms",1197 CC,5,2019,Automatic,GJ27,20.7 kmpl,First Owner,Hyundai Grand i10 Nios AMT Sportz,Rs.6.95 Lakh*
+159,Diesel,"12,000 kms",1995 CC,5,2020,Automatic,GJ02,20.37 kmpl,First Owner,BMW 3 Series 320d Luxury Line,Rs.39 Lakh*
+160,Petrol,"10,600 kms",1798 CC,4,2015,Automatic,GJ15,16.6 kmpl,First Owner,Audi A3 cabriolet 40 TFSI Premium Plus,Rs.38.5 Lakh*
+161,Diesel,"79,000 kms",2494 CC,8,2011,Manual,GJ01,12.8 kmpl,First Owner,Toyota Innova 2.5 G4 Diesel 8-seater,Rs.6.25 Lakh*
+162,Diesel,"85,000 kms",1582 CC,5,2016,Automatic,GJ18,17.01 kmpl,First Owner,Hyundai Creta 1.6 CRDi AT SX Plus,Rs.9.9 Lakh*
+163,Petrol,"65,000 kms",1497 CC,5,2011,Manual,GJ01,17.0 kmpl,First Owner,Honda City 1.5 V MT Exclusive,Rs.4.25 Lakh*
+164,Petrol,"78,000 kms",1497 CC,5,2011,Manual,GJ01,17.0 kmpl,First Owner,Honda City 1.5 S MT,Rs.4 Lakh*
+165,Diesel,"74,035 kms",2755 CC,7,2017,Automatic,GJ38,15.04 kmpl,First Owner,Toyota Fortuner 2016-2021 2.8 4WD AT,Rs.27.49 Lakh*
+166,Diesel,"55,000 kms",2494 CC,7,2015,Manual,GJ01,12.8 kmpl,First Owner,Toyota Innova 2.5 GX (Diesel) 7 Seater BS IV,Rs.10 Lakh*
+167,Diesel,"24,000 kms",2198 CC,7,2020,Automatic,GJ15,12.62 kmpl,First Owner,Ford Endeavour 2.2 Titanium AT 4X2 Sunroof,Rs.31.5 Lakh*
+168,Petrol,"45,000 kms",1497 CC,5,2009,Automatic,KA53,16.8 kmpl,Second Owner,Honda City 1.5 V AT,Rs.4.45 Lakh*
+169,Petrol,"95,000 kms",2354 CC,5,2013,Automatic,KA05,12.0 kmpl,First Owner,Honda CR V 2.4L 4WD AT AVN,Rs.10 Lakh*
+170,Diesel,"65,000 kms",2993 CC,5,2013,Automatic,WB02,16.77 kmpl,Second Owner,BMW 7 Series 730Ld M Sport Plus,Rs.27 Lakh*
+171,Diesel,"82,000 kms",2143 CC,5,2014,Automatic,KA09,13.0 kmpl,Second Owner,Mercedes-Benz E-Class E250 CDI Launch Edition,Rs.22 Lakh*
+172,Diesel,"33,000 kms",2143 CC,5,2017,Automatic,KA03,17.9 kmpl,First Owner,Mercedes-Benz GL-Class 220d 4MATIC Sport,Rs.44.95 Lakh*
+173,Diesel,"54,000 kms",4367 CC,5,2013,Automatic,KA03,11.49 kmpl,Second Owner,Land Rover Range Rover LWB 4.4 SDV8 Vogue SE,Rs.91 Lakh*
+174,Diesel,"1,00,000 kms",1582 CC,5,2016,Manual,TN01,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Plus,Rs.9 Lakh*
+175,Petrol,"54,000 kms",1197 CC,5,2016,Manual,TN10,21.4 kmpl,First Owner,Maruti Baleno Delta 1.2,Rs.6.1 Lakh*
+176,Petrol,"17,000 kms",1199 CC,5,2018,Manual,TN14,17.5 kmpl,First Owner,Honda WR-V i-VTEC VX,Rs.8.75 Lakh*
+177,Diesel,"16,000 kms",1461 CC,5,2019,Manual,TN14,19.87 kmpl,First Owner,Renault Duster 85PS Diesel RxS,Rs.10.9 Lakh*
+178,Diesel,"2,40,001 kms",2494 CC,8,2008,Manual,TN22,12.8 kmpl,First Owner,Toyota Innova 2.5 V Diesel 8-seater,Rs.5.9 Lakh*
+179,Diesel,"34,000 kms",1461 CC,5,2013,Manual,TN06,23.08 kmpl,First Owner,Nissan Micra Diesel XV,Rs.3.95 Lakh*
+180,Diesel,"81,000 kms",1248 CC,5,2017,Manual,TN18,25.2 kmpl,First Owner,Maruti Swift ZDI BSIV,Rs.6.25 Lakh*
+181,Petrol,"24,000 kms",1198 CC,5,2016,Manual,TN65,20.63 kmpl,First Owner,Datsun GO A EPS,Rs.3.35 Lakh*
+182,Petrol,"66,500 kms",1197 CC,5,2013,Manual,TN09,19.1 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.4.75 Lakh*
+183,Diesel,"37,000 kms",1198 CC,6,2017,Manual,TN01,25.32 kmpl,First Owner,Mahindra KUV100 NXT D75 K8,Rs.6.25 Lakh*
+184,Diesel,"1,00,000 kms",1582 CC,5,2016,Manual,TN01,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Plus,Rs.8.9 Lakh*
+185,Diesel,"35,000 kms",1582 CC,5,2019,Manual,TN09,22.0 kmpl,First Owner,Hyundai Verna CRDi 1.6 SX Option,Rs.11.75 Lakh*
+186,Petrol,"24,000 kms",1197 CC,5,2017,Automatic,TN09,17.21 kmpl,First Owner,Volkswagen Polo 2015-2019 GT TSI,Rs.7.85 Lakh*
+187,Diesel,"55,000 kms",1498 CC,5,2016,Automatic,TN07,22.15 kmpl,First Owner,Volkswagen Vento 1.5 TDI Highline AT,Rs.8.6 Lakh*
+188,Diesel,"39,000 kms",2393 CC,7,2017,Manual,TN01,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 VX MT,Rs.19 Lakh*
+189,Petrol,"4,500 kms",1591 CC,5,2019,Manual,TN22,17.0 kmpl,First Owner,Hyundai Verna VTVT 1.6 SX,Rs.10.5 Lakh*
+190,Diesel,"19,000 kms",2179 CC,7,2019,Manual,TN14,15.1 kmpl,First Owner,Mahindra XUV500 W9 BSIV,Rs.16.5 Lakh*
+191,Petrol,"21,093 kms",998 CC,5,2015,Manual,TN09,23.95 kmpl,Second Owner,Maruti Alto K10 LX,Rs.3.1 Lakh*
+192,Petrol,"62,126 kms",1197 CC,5,2018,Manual,TN87,21.4 kmpl,First Owner,Maruti Baleno Zeta 1.2,Rs.6.8 Lakh*
+193,Petrol,"17,603 kms",1199 CC,5,2017,Manual,TN06,17.5 kmpl,First Owner,Honda WR-V Exclusive Petrol,Rs.7.5 Lakh*
+194,Diesel,"66,000 kms",1582 CC,5,2017,Manual,TN09,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Plus,Rs.11.5 Lakh*
+195,Diesel,"93,534 kms",2494 CC,7,2014,Manual,TN22,12.99 kmpl,First Owner,Toyota Innova 2.5 G (Diesel) 7 Seater,Rs.12 Lakh*
+196,Petrol,"69,000 kms",1197 CC,5,2017,Manual,TN73,18.6 kmpl,First Owner,Hyundai i20 Sportz 1.2,Rs.6.3 Lakh*
+197,Petrol,"76,165 kms",1497 CC,5,2009,Manual,TN10,17.0 kmpl,Second Owner,Honda City 1.5 S MT,Rs.3.6 Lakh*
+198,Diesel,"58,000 kms",1498 CC,5,2014,Manual,TN01,22.7 kmpl,Second Owner,Ford EcoSport 1.5 DV5 MT Titanium,Rs.6.35 Lakh*
+199,Petrol,"33,000 kms",1199 CC,5,2016,Manual,TN06,18.7 kmpl,First Owner,Honda Jazz 1.2 V i VTEC,Rs.6.15 Lakh*
+200,Petrol,"21,000 kms",1197 CC,5,2017,Manual,TN14,18.9 kmpl,First Owner,Hyundai Grand i10 Asta Option,Rs.5.25 Lakh*
+201,Diesel,"48,000 kms",1497 CC,5,2017,Manual,TN14,21.5 kmpl,First Owner,Tata Nexon 1.5 Revotorq XE,Rs.6.95 Lakh*
+202,Diesel,"59,000 kms",2993 CC,5,2012,Automatic,TN02,14.74 kmpl,Second Owner,Jaguar XF 3.0 Litre S Premium Luxury,Rs.21 Lakh*
+203,Diesel,"73,000 kms",1396 CC,5,2017,Manual,TN05,22.54 kmpl,First Owner,Hyundai i20 2015-2017 Sportz 1.4 CRDi,Rs.6.9 Lakh*
+204,Diesel,"1,12,000 kms",1968 CC,5,2013,Automatic,TN09,15.73 kmpl,Second Owner,Audi Q3 2.0 TDI,Rs.14.5 Lakh*
+205,Petrol,"43,000 kms",1199 CC,5,2016,Manual,TN09,18.7 kmpl,First Owner,Honda Jazz 1.2 VX i VTEC,Rs.6.25 Lakh*
+206,Petrol,"22,000 kms",1196 CC,5,2010,Manual,TN22,15.6 kmpl,First Owner,Ford Figo Petrol ZXI,Rs.3.1 Lakh*
+207,Petrol,"1,28,000 kms",2771 CC,5,2011,Automatic,TN07,9.3 kmpl,First Owner,Skoda Superb 2.8 V6 AT,Rs.6.5 Lakh*
+208,Petrol,"31,000 kms",1198 CC,5,2017,Manual,TN34,17.8 kmpl,First Owner,Honda Amaze 2016-2021 S i-VTEC,Rs.6 Lakh*
+209,Petrol,"24,000 kms",999 CC,7,2019,Manual,TN12,20.0 kmpl,First Owner,Renault Triber RXT,Rs.6.5 Lakh*
+210,Petrol,"32,000 kms",1199 CC,5,2017,Manual,TN10,17.5 kmpl,First Owner,Honda WR-V i-VTEC S,Rs.7 Lakh*
+211,Petrol,"4,500 kms",1197 CC,5,2018,Manual,TN22,20.52 kmpl,First Owner,Maruti Wagon R VXI 1.2,Rs.4.95 Lakh*
+212,Petrol,"37,000 kms",1197 CC,5,2014,Manual,TN22,18.9 kmpl,Second Owner,Hyundai Grand i10 Magna,Rs.4.4 Lakh*
+213,Petrol,"34,000 kms",1199 CC,5,2016,Manual,TN10,18.7 kmpl,First Owner,Honda Jazz 1.2 SV i VTEC,Rs.5.75 Lakh*
+214,Petrol,"34,000 kms",1199 CC,5,2016,Manual,TN10,18.7 kmpl,First Owner,Honda Jazz 1.2 SV i VTEC,Rs.5.75 Lakh*
+215,Diesel,"38,000 kms",1582 CC,5,2017,Manual,TN07,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Option,Rs.11.25 Lakh*
+216,Petrol,"40,000 kms",1199 CC,5,2017,Manual,TN05,17.5 kmpl,First Owner,Honda WR-V i-VTEC S,Rs.7.25 Lakh*
+217,Petrol,"51,000 kms",1497 CC,5,2016,Manual,TN01,17.8 kmpl,First Owner,Honda City i VTEC V,Rs.7.25 Lakh*
+218,Petrol,"51,000 kms",796 CC,5,2015,Manual,TN04,22.74 kmpl,First Owner,Maruti Alto 800 LXI,Rs.2.9 Lakh*
+219,Petrol,"32,000 kms",1497 CC,5,2016,Manual,TN07,17.4 kmpl,First Owner,Honda City i VTEC V,Rs.8.15 Lakh*
+220,Diesel,"68,803 kms",1248 CC,5,2013,Manual,TN11,20.3 kmpl,First Owner,Fiat Grande Punto 1.3 Dynamic (Diesel),Rs.3.5 Lakh*
+221,Petrol,"34,000 kms",1373 CC,5,2017,Manual,TN05,20.73 kmpl,First Owner,Maruti Ciaz 1.4 Alpha,Rs.8 Lakh*
+222,Diesel,"59,000 kms",2179 CC,7,2019,Automatic,TN60,17.6 kmpl,First Owner,Tata Hexa XTA,Rs.13.75 Lakh*
+223,Petrol,"22,000 kms",998 CC,5,2019,Automatic,TN01,21.63 kmpl,First Owner,Maruti Celerio ZXI AMT Optional,Rs.5.25 Lakh*
+224,Diesel,"55,000 kms",1120 CC,5,2014,Manual,TN01,24.4 kmpl,First Owner,Hyundai Xcent 1.1 CRDi SX Option,Rs.5.5 Lakh*
+225,Diesel,"1,08,666 kms",2393 CC,7,2016,Manual,TN14,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 ZX MT,Rs.16.8 Lakh*
+226,Petrol,"19,000 kms",1197 CC,5,2017,Automatic,TN07,21.4 kmpl,Second Owner,Maruti Baleno Zeta Automatic,Rs.6.9 Lakh*
+227,Petrol,"43,000 kms",1197 CC,5,2016,Manual,TN02,18.9 kmpl,Second Owner,Hyundai Grand i10 Asta,Rs.4.65 Lakh*
+228,Diesel,"75,000 kms",1248 CC,5,2016,Automatic,TN10,26.59 kmpl,First Owner,Maruti Swift Dzire AMT ZDI,Rs.5.9 Lakh*
+229,Petrol,"41,000 kms",1199 CC,5,2016,Manual,TN12,18.7 kmpl,First Owner,Honda Jazz 1.2 V i VTEC,Rs.5.95 Lakh*
+230,Petrol,"79,000 kms",1586 CC,5,2010,Automatic,TN05,12.6 kmpl,Second Owner,Maruti SX4 ZXI AT,Rs.3 Lakh*
+231,Petrol,"49,000 kms",1198 CC,5,2015,Manual,TN07,18.0 kmpl,First Owner,Honda Amaze VX O i VTEC,Rs.5.7 Lakh*
+232,Petrol,"20,000 kms",814 CC,5,2014,Manual,TN85,21.1 kmpl,First Owner,Hyundai EON Magna Plus,Rs.3.45 Lakh*
+233,Petrol,"68,000 kms",1197 CC,5,2010,Manual,TN09,17.0 kmpl,Second Owner,Hyundai i20 Sportz Option,Rs.3.5 Lakh*
+234,Petrol,"32,000 kms",1497 CC,5,2016,Manual,TN07,17.4 kmpl,First Owner,Honda City i VTEC V,Rs.8.15 Lakh*
+235,Diesel,"68,803 kms",1248 CC,5,2013,Manual,TN11,20.3 kmpl,First Owner,Fiat Grande Punto 1.3 Dynamic (Diesel),Rs.3.5 Lakh*
+236,Petrol,"34,000 kms",1373 CC,5,2017,Manual,TN05,20.73 kmpl,First Owner,Maruti Ciaz 1.4 Alpha,Rs.8 Lakh*
+237,Diesel,"59,000 kms",2179 CC,7,2019,Automatic,TN60,17.6 kmpl,First Owner,Tata Hexa XTA,Rs.13.75 Lakh*
+238,Petrol,"22,000 kms",998 CC,5,2019,Automatic,TN01,21.63 kmpl,First Owner,Maruti Celerio ZXI AMT Optional,Rs.5.25 Lakh*
+239,Diesel,"55,000 kms",1120 CC,5,2014,Manual,TN01,24.4 kmpl,First Owner,Hyundai Xcent 1.1 CRDi SX Option,Rs.5.5 Lakh*
+240,Diesel,"1,08,666 kms",2393 CC,7,2016,Manual,TN14,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 ZX MT,Rs.16.8 Lakh*
+241,Petrol,"19,000 kms",1197 CC,5,2017,Automatic,TN07,21.4 kmpl,Second Owner,Maruti Baleno Zeta Automatic,Rs.6.9 Lakh*
+242,Petrol,"43,000 kms",1197 CC,5,2016,Manual,TN02,18.9 kmpl,Second Owner,Hyundai Grand i10 Asta,Rs.4.65 Lakh*
+243,Diesel,"75,000 kms",1248 CC,5,2016,Automatic,TN10,26.59 kmpl,First Owner,Maruti Swift Dzire AMT ZDI,Rs.5.9 Lakh*
+244,Petrol,"41,000 kms",1199 CC,5,2016,Manual,TN12,18.7 kmpl,First Owner,Honda Jazz 1.2 V i VTEC,Rs.5.95 Lakh*
+245,Petrol,"79,000 kms",1586 CC,5,2010,Automatic,TN05,12.6 kmpl,Second Owner,Maruti SX4 ZXI AT,Rs.3 Lakh*
+246,Petrol,"49,000 kms",1198 CC,5,2015,Manual,TN07,18.0 kmpl,First Owner,Honda Amaze VX O i VTEC,Rs.5.7 Lakh*
+247,Petrol,"20,000 kms",814 CC,5,2014,Manual,TN85,21.1 kmpl,First Owner,Hyundai EON Magna Plus,Rs.3.45 Lakh*
+248,Petrol,"68,000 kms",1197 CC,5,2010,Manual,TN09,17.0 kmpl,Second Owner,Hyundai i20 Sportz Option,Rs.3.5 Lakh*
+249,Diesel,"29,055 kms",1498 CC,5,2018,Manual,TN19,27.3 kmpl,First Owner,Honda Jazz V Diesel,Rs.7.5 Lakh*
+250,Petrol,"42,364 kms",998 CC,5,2011,Manual,TN06,20.92 kmpl,Second Owner,Maruti Alto K10 2010-2014 VXI,Rs.2.25 Lakh*
+251,Diesel,"75,291 kms",1498 CC,5,2013,Manual,TN07,22.7 kmpl,First Owner,Ford EcoSport 1.5 DV5 MT Titanium,Rs.5.2 Lakh*
+252,Diesel,"44,000 kms",1582 CC,5,2016,Manual,TN06,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Option,Rs.11.45 Lakh*
+253,Petrol,"20,000 kms",1197 CC,5,2017,Manual,TN09,18.6 kmpl,First Owner,Hyundai i20 2015-2017 Sportz 1.2,Rs.6.35 Lakh*
+254,Petrol,"35,000 kms",999 CC,5,2018,Manual,TN87,18.78 kmpl,First Owner,Volkswagen Polo 2015-2019 1.0 MPI Highline Plus,Rs.6.9 Lakh*
+255,Diesel,"55,000 kms",1498 CC,5,2014,Manual,TN01,20.14 kmpl,First Owner,Volkswagen Polo 1.5 TDI Highline,Rs.5.5 Lakh*
+256,Diesel,"99,250 kms",1598 CC,5,2012,Manual,TN10,20.5 kmpl,First Owner,Skoda Rapid 1.6 TDI Ambition Plus,Rs.3.69 Lakh*
+257,Petrol,"53,450 kms",1199 CC,5,2010,Manual,TN07,18.6 kmpl,Second Owner,Chevrolet Beat LT,Rs.1.99 Lakh*
+258,Petrol,"74,000 kms",1197 CC,5,2013,Manual,TN09,18.9 kmpl,First Owner,Hyundai Grand i10 Asta Option,Rs.3.6 Lakh*
+259,Diesel,"61,000 kms",1582 CC,5,2014,Manual,TN01,22.32 kmpl,Second Owner,Hyundai Verna 1.6 SX,Rs.6.5 Lakh*
+260,Petrol,"77,000 kms",998 CC,5,2015,Manual,TN05,21.79 kmpl,First Owner,Maruti Wagon R VXI,Rs.3.6 Lakh*
+261,Petrol,"68,000 kms",999 CC,5,2000,Manual,TN10,0.0 kmpl,Second Owner,Hyundai Santro LE zipPlus,"Rs.65,000*"
+262,Petrol,"84,000 kms",1799 CC,5,2010,Manual,TN09,14.8 kmpl,First Owner,Honda Civic 1.8 V MT,Rs.4.4 Lakh*
+263,Petrol,"94,014 kms",1497 CC,5,2014,Manual,TN11,17.8 kmpl,Second Owner,Honda City i VTEC V,Rs.5.4 Lakh*
+264,Petrol,"25,000 kms",1197 CC,5,2014,Manual,TN01,19.1 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.5 Lakh*
+265,Petrol,"43,804 kms",1197 CC,5,2018,Manual,TN12,22.0 kmpl,First Owner,Maruti Swift Dzire VXI 1.2 BS IV,Rs.6.2 Lakh*
+266,Diesel,"60,000 kms",3198 CC,7,2017,Automatic,TN95,10.91 kmpl,First Owner,Ford Endeavour 3.2 Trend AT 4X4,Rs.23 Lakh*
+267,Diesel,"42,000 kms",2179 CC,5,2015,Automatic,TN07,12.7 kmpl,First Owner,Land Rover Range Rover Evoque HSE Dynamic,Rs.32 Lakh*
+268,Diesel,"1,30,000 kms",1248 CC,7,2012,Manual,TN02,20.77 kmpl,First Owner,Maruti Ertiga ZDI,Rs.5.4 Lakh*
+269,Diesel,"66,000 kms",1582 CC,5,2017,Manual,TN01,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX Plus,Rs.11.5 Lakh*
+270,Diesel,"12,000 kms",1950 CC,5,2017,Automatic,TN11,16.1 kmpl,First Owner,Mercedes-Benz E-Class Exclusive E 220 d BSIV,Rs.45.5 Lakh*
+271,Petrol,"20,000 kms",1197 CC,5,2017,Automatic,TN01,17.2 kmpl,First Owner,Volkswagen Polo GT TSI,Rs.8 Lakh*
+272,Diesel,"49,000 kms",1598 CC,5,2012,Manual,TN66,20.54 kmpl,First Owner,Volkswagen Vento Diesel Highline,Rs.5.65 Lakh*
+273,Diesel,"40,000 kms",2993 CC,5,2015,Automatic,TN,16.46 kmpl,Second Owner,BMW 7 Series 730Ld,Rs.38 Lakh*
+274,Diesel,"1,85,000 kms",2982 CC,7,2010,Manual,TN22,11.5 kmpl,First Owner,Toyota Fortuner 3.0 Diesel,Rs.11.25 Lakh*
+275,Petrol,"55,000 kms",796 CC,5,2015,Manual,TN22,22.74 kmpl,First Owner,Maruti Alto 800 LXI,Rs.2.85 Lakh*
+276,Petrol,"1,600 kms",1199 CC,5,2019,Manual,TN12,18.7 kmpl,First Owner,Honda Jazz 1.2 VX i VTEC,Rs.8.25 Lakh*
+277,Petrol,"45,000 kms",1199 CC,5,2016,Automatic,TN01,19.0 kmpl,First Owner,Honda Jazz 1.2 V AT i VTEC,Rs.6.9 Lakh*
+278,Diesel,"69,000 kms",1582 CC,5,2016,Manual,TN03,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX,Rs.10.9 Lakh*
+279,Diesel,"27,000 kms",1498 CC,5,2016,Manual,TN12,25.8 kmpl,First Owner,Honda Amaze 2016-2021 SX i DTEC,Rs.6.5 Lakh*
+280,Petrol,"27,000 kms",1462 CC,7,2016,Manual,TN07,19.01 kmpl,First Owner,Maruti Ertiga ZXI Plus,Rs.7.3 Lakh*
+281,Petrol,"39,000 kms",1591 CC,5,2018,Manual,TN04,15.8 kmpl,First Owner,Hyundai Creta 1.6 EX Petrol,Rs.8.6 Lakh*
+282,Diesel,"35,000 kms",2179 CC,7,2019,Manual,TN09,15.1 kmpl,First Owner,Mahindra XUV500 W11 BSIV,Rs.18.75 Lakh*
+283,Petrol,"40,000 kms",1061 CC,5,2008,Manual,TN10,18.2 kmpl,Second Owner,Maruti Zen Estilo 1.1 VXI BSIII,Rs.2.2 Lakh*
+284,Petrol,"65,000 kms",1298 CC,5,2007,Manual,TN01,15.9 kmpl,Second Owner,Maruti Esteem Vxi - BSIII,Rs.1.4 Lakh*
+285,Petrol,"43,000 kms",1197 CC,5,2015,Manual,TN14,18.9 kmpl,First Owner,Hyundai Grand i10 Asta,Rs.4.9 Lakh*
+286,Petrol,"70,454 kms",1197 CC,5,2008,Manual,TN09,20.36 kmpl,Second Owner,Hyundai i10 Magna,Rs.1.9 Lakh*
+287,Petrol,"14,938 kms",796 CC,5,2018,Manual,TN20,24.7 kmpl,First Owner,Maruti Alto 800 LXI Optional,Rs.3.35 Lakh*
+288,Petrol,"38,000 kms",814 CC,5,2014,Manual,TN09,21.1 kmpl,First Owner,Hyundai EON Era Plus,Rs.3.35 Lakh*
+289,Petrol,"54,850 kms",1197 CC,5,2016,Manual,TN14,18.6 kmpl,First Owner,Hyundai i20 2015-2017 Asta 1.2,Rs.6.1 Lakh*
+290,Diesel,"43,000 kms",1498 CC,5,2017,Manual,TN07,25.5 kmpl,First Owner,Honda WR-V i-DTEC VX,Rs.8.75 Lakh*
+291,Diesel,"1,03,000 kms",2199 CC,7,2012,Manual,TN21,14.66 kmpl,First Owner,Hyundai Santa Fe 4X2,Rs.6.7 Lakh*
+292,Petrol,"15,000 kms",1197 CC,5,2019,Manual,TN02,18.9 kmpl,First Owner,Hyundai Grand i10 1.2 Kappa Sportz BSIV,Rs.5.75 Lakh*
+293,Petrol,"32,000 kms",1196 CC,5,2013,Manual,TN03,15.6 kmpl,First Owner,Ford Figo Petrol EXI,Rs.2.95 Lakh*
+294,Diesel,"50,000 kms",1995 CC,5,2017,Automatic,TN01,21.76 kmpl,First Owner,BMW 3 Series GT Luxury Line,Rs.32 Lakh*
+295,Petrol,"34,000 kms",1197 CC,5,2018,Manual,TN03,21.4 kmpl,First Owner,Maruti Baleno Zeta 1.2,Rs.6.9 Lakh*
+296,Petrol,"65,000 kms",1197 CC,5,2010,Manual,TN37,21.1 kmpl,First Owner,Maruti Ritz VXI,Rs.2.85 Lakh*
+297,Petrol,"2,690 kms",1197 CC,5,2020,Automatic,TN01,18.19 kmpl,First Owner,Volkswagen Vento 1.2 TSI Highline BSIV,Rs.13.59 Lakh*
+298,Petrol,"31,000 kms",1598 CC,5,2018,Manual,TN09,16.09 kmpl,First Owner,Volkswagen Vento 1.6 Highline Plus,Rs.9.5 Lakh*
+299,Petrol,"47,238 kms",998 CC,5,2013,Manual,TN18,20.51 kmpl,First Owner,Maruti Wagon R VXI,Rs.3.4 Lakh*
+300,Diesel,"35,000 kms",1582 CC,5,2019,Manual,TN09,22.0 kmpl,First Owner,Hyundai Verna CRDi 1.6 SX Option,Rs.12.75 Lakh*
+301,Diesel,"40,000 kms",1493 CC,7,2017,Manual,TN05,18.49 kmpl,First Owner,Mahindra TUV 300 T8,Rs.8.85 Lakh*
+302,Diesel,"69,000 kms",1582 CC,5,2016,Manual,TN18,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX,Rs.10.9 Lakh*
+303,Petrol,"16,800 kms",1197 CC,5,2017,Manual,TN85,18.9 kmpl,First Owner,Hyundai Grand i10 1.2 Kappa Magna BSIV,Rs.5 Lakh*
+304,Diesel,"89,568 kms",1248 CC,5,2017,Manual,TN07,26.21 kmpl,First Owner,Maruti Ciaz VDi,Rs.7.5 Lakh*
+305,Diesel,"1,30,000 kms",2494 CC,7,2013,Manual,TN06,12.99 kmpl,First Owner,Toyota Innova 2.5 VX (Diesel) 7 Seater,Rs.11.75 Lakh*
+306,Diesel,"50,000 kms",1493 CC,7,2019,Automatic,TN30,18.49 kmpl,First Owner,Mahindra TUV 300 T8 AMT,Rs.9.45 Lakh*
+307,Diesel,"89,801 kms",2393 CC,7,2016,Manual,TN14,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 ZX MT,Rs.17.2 Lakh*
+308,Petrol,"17,000 kms",1197 CC,5,2014,Manual,TN13,18.9 kmpl,First Owner,Hyundai Grand i10 Asta,Rs.4.8 Lakh*
+309,Petrol,"43,000 kms",1198 CC,5,2015,Manual,TN10,18.0 kmpl,First Owner,Honda Amaze VX i-Vtech,Rs.5.35 Lakh*
+310,Petrol,"85,910 kms",1199 CC,5,2015,Manual,TN85,18.7 kmpl,First Owner,Honda Jazz 1.2 V i VTEC,Rs.5.1 Lakh*
+311,Petrol,"20,000 kms",998 CC,5,2013,Manual,TN09,20.92 kmpl,First Owner,Maruti Alto K10 2010-2014 VXI,Rs.2.95 Lakh*
+312,Diesel,"12,100 kms",2755 CC,7,2019,Automatic,TN01,11.36 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,Rs.25 Lakh*
+313,Petrol,"17,000 kms",1197 CC,5,2018,Manual,TN09,21.4 kmpl,First Owner,Maruti Baleno Zeta 1.2,Rs.7.5 Lakh*
+314,Petrol,"11,000 kms",2996 CC,2,2017,Automatic,CH01,19.0 kmpl,Second Owner,Mercedes-Benz SLC 43 AMG,Rs.65 Lakh*
+315,Diesel,"43,000 kms",4367 CC,5,2018,Automatic,CH01,11.49 kmpl,First Owner,Land Rover Range Rover 4.4 Diesel LWB Autobiography,Rs.2.25 Cr*
+316,Diesel,"20,000 kms",1968 CC,5,2018,Automatic,HR26,20.38 kmpl,First Owner,Audi A3 35 TDI Premium Plus,Rs.26 Lakh*
+317,Petrol,"26,700 kms",2996 CC,5,2016,Automatic,PY05,7.81 kmpl,First Owner,Mercedes-Benz S-Class 2012-2021 S400,Rs.68.5 Lakh*
+318,Petrol,"41,738 kms",1086 CC,5,2007,Manual,DL04,0.0 kmpl,First Owner,Hyundai Santro Xing XL,"Rs.90,000*"
+319,Diesel,"82,175 kms",1248 CC,5,2017,Manual,TS15,28.4 kmpl,First Owner,Maruti Swift Dzire VDI,Rs.7.34 Lakh*
+320,Diesel,"1,90,417 kms",2494 CC,7,2006,Manual,AP09,12.8 kmpl,First Owner,Toyota Innova 2.5 V Diesel 7-seater,Rs.5.6 Lakh*
+321,Petrol,"91,213 kms",998 CC,5,2012,Manual,AP12,20.51 kmpl,First Owner,Maruti Wagon R VXI,Rs.3.13 Lakh*
+322,Diesel,"16,728 kms",1461 CC,5,2015,Manual,TS10,23.08 kmpl,First Owner,Renault Pulse RxL,Rs.4.59 Lakh*
+323,Petrol,"32,589 kms",1197 CC,5,2018,Manual,TS07,18.6 kmpl,First Owner,Hyundai i20 Petrol Asta,Rs.7.99 Lakh*
+324,Petrol,"38,000 kms",624 CC,4,2015,Manual,RJ45,25.4 kmpl,Second Owner,Tata Nano Twist XT,Rs.1.05 Lakh*
+325,Petrol,"57,248 kms",1591 CC,5,2018,Manual,RJ45,17.0 kmpl,First Owner,Hyundai Verna VTVT 1.6 SX Option,Rs.11.8 Lakh*
+326,Petrol,"72,000 kms",1794 CC,5,2009,Manual,RJ20,13.4 kmpl,Second Owner,Toyota Corolla Executive (HE),Rs.3.25 Lakh*
+327,Diesel,"1,10,000 kms",2179 CC,7,2016,Manual,RJ30,14.1 kmpl,First Owner,Tata Safari Storme EX,Rs.7.45 Lakh*
+328,Petrol,"65,350 kms",1198 CC,5,2017,Manual,RJ14,18.5 kmpl,Second Owner,Honda Brio 1.2 S MT,Rs.3.97 Lakh*
+329,Petrol,"67,000 kms",998 CC,5,2007,Manual,RJ14,18.2 kmpl,First Owner,Maruti Zen Estilo LXI BSIII,Rs.1.25 Lakh*
+330,Petrol,"4,500 kms",1197 CC,5,2020,Manual,RJ29,21.01 kmpl,First Owner,Maruti Baleno Zeta,Rs.7.9 Lakh*
+331,Diesel,"90,123 kms",1399 CC,5,2010,Manual,RJ36,20.0 kmpl,Second Owner,Ford Figo Diesel Titanium,Rs.1.75 Lakh*
+332,Petrol,"41,848 kms",1497 CC,5,2019,Automatic,RJ01,16.8 kmpl,First Owner,Kia Seltos HTX IVT G,Rs.13.85 Lakh*
+333,Diesel,"21,823 kms",1582 CC,5,2019,Manual,RJ20,22.0 kmpl,First Owner,Hyundai Verna CRDi 1.6 SX,Rs.11.35 Lakh*
+334,Diesel,"75,461 kms",1498 CC,5,2016,Manual,RJ14,27.3 kmpl,First Owner,Honda Jazz 1.5 SV i DTEC,Rs.4.65 Lakh*
+335,Diesel,"79,000 kms",1493 CC,7,2012,Manual,RJ14,17.21 kmpl,First Owner,Mahindra Quanto C8,Rs.3 Lakh*
+336,Petrol,"30,838 kms",1199 CC,5,2018,Automatic,RJ45,18.2 kmpl,First Owner,Honda Jazz V CVT,Rs.6.95 Lakh*
+337,Diesel,"27,501 kms",1248 CC,5,2019,Manual,WB08,23.65 kmpl,First Owner,Maruti S-Cross 2017-2020 Facelift,Rs.7.88 Lakh*
+338,Petrol,"15,459 kms",796 CC,5,2019,Manual,WB24,22.74 kmpl,First Owner,Maruti Alto 800 LXI,Rs.3.19 Lakh*
+339,Petrol,"53,000 kms",1198 CC,5,2011,Manual,WB06,16.47 kmpl,First Owner,Volkswagen Polo Petrol Highline 1.2L,Rs.2.25 Lakh*
+340,Petrol,"44,000 kms",1197 CC,5,2010,Manual,WB24,17.5 kmpl,First Owner,Maruti Swift Dzire 1.2 Lxi BSIV,Rs.2.5 Lakh*
+341,Petrol,"34,000 kms",998 CC,5,2014,Manual,WB08,20.92 kmpl,First Owner,Maruti Alto K10 LXI,Rs.2.4 Lakh*
+342,Petrol,"49,000 kms",1197 CC,5,2015,Manual,WB02,20.36 kmpl,First Owner,Hyundai i10 Magna,Rs.3 Lakh*
+343,Petrol,"35,000 kms",1462 CC,7,2018,Manual,WB06,19.34 kmpl,First Owner,Maruti Ertiga VXI Petrol,Rs.7.14 Lakh*
+344,Petrol,"34,000 kms",1197 CC,5,2011,Manual,WB06,20.36 kmpl,First Owner,Hyundai i10 Sportz Option,Rs.2.59 Lakh*
+345,Petrol,"8,000 kms",1198 CC,7,2017,Manual,WB02,19.44 kmpl,First Owner,Datsun GO Plus T BSIV,Rs.3.25 Lakh*
+346,Diesel,"44,500 kms",1498 CC,5,2014,Manual,WB02,22.27 kmpl,First Owner,Volkswagen Vento 1.5 TDI Highline,Rs.4.1 Lakh*
+347,Diesel,"34,000 kms",2393 CC,7,2019,Manual,WB02,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 VX MT BSIV,Rs.18.39 Lakh*
+348,Diesel,"32,000 kms",1498 CC,5,2015,Manual,WB06,25.8 kmpl,First Owner,Honda Amaze S i-Dtech,Rs.4.25 Lakh*
+349,Petrol,"43,000 kms",1498 CC,5,2015,Automatic,WB74,17.97 kmpl,First Owner,Renault Scala RxL AT,Rs.3.99 Lakh*
+350,Diesel,"19,000 kms",1396 CC,5,2016,Manual,WB01,21.9 kmpl,Second Owner,Hyundai i20 Sportz 1.4 CRDi,Rs.5.25 Lakh*
+351,Petrol,"41,000 kms",1197 CC,5,2015,Manual,WB02,18.6 kmpl,Second Owner,Hyundai i20 Magna 1.2,Rs.4.45 Lakh*
+352,Petrol,"4,535 kms",998 CC,5,2018,Manual,WB12,21.79 kmpl,First Owner,Maruti Wagon R VXI,Rs.4.25 Lakh*
+353,Petrol,"45,000 kms",1591 CC,5,2018,Automatic,WB02,13.0 kmpl,First Owner,Hyundai Creta 1.6 VTVT AT SX Plus,Rs.9.95 Lakh*
+354,Petrol,"35,500 kms",1496 CC,5,2013,Manual,WB02,16.78 kmpl,Second Owner,Toyota Etios G,Rs.2.25 Lakh*
+355,Diesel,"63,000 kms",1582 CC,5,2017,Manual,WB20,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX,Rs.7.75 Lakh*
+356,Petrol,"46,000 kms",1497 CC,5,2016,Manual,WB02,17.4 kmpl,First Owner,Honda City i VTEC VX Option,Rs.6.65 Lakh*
+357,Diesel,"23,000 kms",1364 CC,5,2017,Manual,WB02,21.43 kmpl,Second Owner,Toyota Corolla Altis D-4D GL,Rs.10.76 Lakh*
+358,Petrol,"46,000 kms",1497 CC,5,2016,Manual,WB02,17.4 kmpl,First Owner,Honda City i VTEC VX Option,Rs.6.65 Lakh*
+359,Petrol,"42,000 kms",1197 CC,5,2014,Manual,WB02,18.16 kmpl,First Owner,Toyota Etios Cross 1.2L G,Rs.4.25 Lakh*
+360,Diesel,"34,000 kms",1995 CC,5,2015,Automatic,WB02,18.12 kmpl,Second Owner,BMW 5 Series 520d Luxury Line,Rs.23.5 Lakh*
+361,Petrol,"16,598 kms",999 CC,5,2020,Manual,WB26,23.01 kmpl,First Owner,Renault KWID 1.0 RXT Opt BSIV,Rs.4.5 Lakh*
+362,Petrol,"51,000 kms",1586 CC,5,2010,Manual,WB06,15.5 kmpl,First Owner,Maruti SX4 Vxi BSIV,Rs.1.95 Lakh*
+363,Diesel,"55,200 kms",1497 CC,8,2019,Manual,WB72,17.3 kmpl,First Owner,Mahindra Marazzo M2 8Str BSIV,Rs.8.55 Lakh*
+364,Petrol,"49,000 kms",1999 CC,5,2007,Manual,WB02,13.17 kmpl,First Owner,Mitsubishi Cedia Sports,Rs.1.65 Lakh*
+365,Diesel,"70,000 kms",1498 CC,5,2016,Manual,WB06,25.8 kmpl,First Owner,Honda Amaze 2016-2021 VX i DTEC,Rs.4.5 Lakh*
+366,Petrol,"35,308 kms",1197 CC,5,2016,Manual,WB12,18.9 kmpl,First Owner,Hyundai Grand i10 Magna,Rs.3.9 Lakh*
+367,Diesel,"23,000 kms",1968 CC,5,2015,Manual,WB02,19.33 kmpl,First Owner,Volkswagen Jetta 2.0L TDI Highline,Rs.9 Lakh*
+368,Petrol,"42,285 kms",1497 CC,5,2012,Manual,WB02,16.8 kmpl,First Owner,Honda City S,Rs.3.75 Lakh*
+369,Petrol,"11,519 kms",998 CC,5,2018,Automatic,WB06,23.1 kmpl,First Owner,Maruti Celerio VXI AMT BSIV,Rs.4.65 Lakh*
+370,Diesel,"59,405 kms",1497 CC,8,2019,Manual,WB02,17.3 kmpl,Second Owner,Mahindra Marazzo M2 8Str,Rs.7.4 Lakh*
+371,Petrol,"19,980 kms",1086 CC,5,2013,Manual,WB12,19.81 kmpl,First Owner,Hyundai i10 Era,Rs.2.65 Lakh*
+372,Diesel,"45,000 kms",1968 CC,5,2016,Automatic,WB02,14.16 kmpl,First Owner,Audi Q5 30 TDI quattro Premium,Rs.17.5 Lakh*
+373,Petrol,"9,000 kms",1199 CC,5,2020,Manual,WB12,16.5 kmpl,First Owner,Honda WR-V VX,Rs.8.49 Lakh*
+374,Petrol,"37,282 kms",998 CC,5,2016,Manual,WB02,23.95 kmpl,First Owner,Maruti Alto K10 VXI,Rs.2.85 Lakh*
+375,Diesel,"61,820 kms",1598 CC,5,2013,Manual,WB02,20.54 kmpl,First Owner,Volkswagen Vento Diesel Highline,Rs.3.8 Lakh*
+376,Petrol,"25,000 kms",998 CC,5,2010,Manual,WB12,18.9 kmpl,First Owner,Maruti Wagon R VXI BS IV,Rs.1.99 Lakh*
+377,Petrol,"25,000 kms",998 CC,5,2010,Manual,WB12,18.9 kmpl,First Owner,Maruti Wagon R VXI BS IV,Rs.1.99 Lakh*
+378,Diesel,"36,160 kms",1498 CC,5,2015,Manual,WB26,22.7 kmpl,First Owner,Ford EcoSport 1.5 DV5 MT Ambiente,Rs.5.1 Lakh*
+379,Diesel,"38,532 kms",1498 CC,5,2015,Manual,WB02,25.8 kmpl,First Owner,Honda Amaze S i-Dtech,Rs.4.2 Lakh*
+380,Petrol,"41,000 kms",1197 CC,5,2015,Manual,WB02,18.6 kmpl,Second Owner,Hyundai i20 Magna 1.2,Rs.4.35 Lakh*
+381,Petrol,"42,000 kms",998 CC,5,2009,Manual,WB20,19.0 kmpl,First Owner,Maruti A Star Vxi,Rs.1.49 Lakh*
+382,Diesel,"52,500 kms",1248 CC,5,2014,Manual,WB02,22.9 kmpl,First Owner,Maruti Swift RS VDI,Rs.3.39 Lakh*
+383,Diesel,"52,000 kms",2523 CC,7,2016,Manual,WB06,13.6 kmpl,First Owner,Mahindra Bolero ZLX,Rs.5.75 Lakh*
+384,Petrol,"41,000 kms",1197 CC,5,2018,Manual,WB26,21.4 kmpl,First Owner,Maruti Baleno Alpha 1.2,Rs.6.1 Lakh*
+385,Petrol,"77,000 kms",1086 CC,5,2004,Manual,WB02,17.0 kmpl,First Owner,Hyundai Santro Xing XL eRLX Euro II,"Rs.95,000*"
+386,Petrol,"7,500 kms",998 CC,5,2020,Manual,WB02,18.2 kmpl,Second Owner,Kia Sonet GTX Plus Turbo iMT,Rs.11.7 Lakh*
+387,Petrol,"39,000 kms",1591 CC,5,2016,Manual,WB20,17.01 kmpl,First Owner,Hyundai Verna 1.6 VTVT SX,Rs.5.5 Lakh*
+388,Petrol,"44,000 kms",1198 CC,6,2019,Manual,WB20,18.15 kmpl,First Owner,Mahindra KUV100 NXT G80 K2,Rs.4.41 Lakh*
+389,Petrol,"24,477 kms",1197 CC,5,2017,Manual,WB06,20.89 kmpl,First Owner,Maruti Ignis 1.2 Zeta BSIV,Rs.4.45 Lakh*
+390,Diesel,"30,206 kms",1399 CC,5,2012,Manual,WB74,20.0 kmpl,Second Owner,Ford Figo Diesel Titanium,Rs.2.1 Lakh*
+391,Petrol,"36,887 kms",998 CC,5,2016,Automatic,WB02,20.51 kmpl,First Owner,Maruti Wagon R AMT VXI,Rs.3.65 Lakh*
+392,Petrol,"25,000 kms",796 CC,5,2010,Manual,WB06,19.7 kmpl,First Owner,Maruti Alto LXi,Rs.1.4 Lakh*
+393,Petrol,"4,646 kms",1197 CC,5,2020,Manual,WB20,23.26 kmpl,First Owner,Maruti Dzire VXI,Rs.6.7 Lakh*
+394,Diesel,"35,000 kms",1248 CC,5,2017,Manual,WB02,23.65 kmpl,First Owner,Maruti SX4 S Cross DDiS 200 Zeta,Rs.6.5 Lakh*
+395,Diesel,"45,000 kms",1248 CC,5,2016,Manual,WB02,24.3 kmpl,First Owner,Maruti Vitara Brezza VDi Option,Rs.5.99 Lakh*
+396,Petrol,"23,100 kms",1197 CC,5,2015,Manual,WB20,20.36 kmpl,First Owner,Hyundai i10 Magna 1.2 iTech SE,Rs.3.1 Lakh*
+397,Petrol,"35,600 kms",1197 CC,5,2015,Manual,WB02,17.19 kmpl,First Owner,Hyundai i20 Active 1.2 S,Rs.5.27 Lakh*
+398,Petrol,"41,000 kms",1598 CC,5,2016,Manual,WB02,16.09 kmpl,First Owner,Volkswagen Vento 1.6 Highline,Rs.5.45 Lakh*
+399,Petrol,"9,000 kms",1198 CC,5,2018,Manual,WB24,20.63 kmpl,First Owner,Datsun GO T BSIV,Rs.3.25 Lakh*
+400,Petrol,"35,000 kms",1373 CC,7,2014,Manual,WB02,16.02 kmpl,First Owner,Maruti Ertiga VXI,Rs.5.5 Lakh*
+401,Petrol,"9,000 kms",1198 CC,5,2014,Manual,WB02,20.63 kmpl,First Owner,Datsun GO T BSIV,Rs.2.95 Lakh*
+402,Petrol,"6,800 kms",814 CC,5,2016,Manual,WB02,21.1 kmpl,First Owner,Hyundai EON D Lite Plus,Rs.2.57 Lakh*
+403,Petrol,"45,000 kms",1999 CC,5,2017,Manual,WB02,14.59 kmpl,First Owner,Hyundai Elantra 2.0 SX,Rs.8.95 Lakh*
+404,Petrol,"13,891 kms",1197 CC,5,2013,Manual,WB02,18.5 kmpl,First Owner,Hyundai i20 Magna Optional 1.2,Rs.3.1 Lakh*
+405,Diesel,"41,000 kms",1461 CC,5,2014,Manual,WB06,20.4 kmpl,First Owner,Renault Fluence E4 D,Rs.5.5 Lakh*
+406,Petrol,"45,000 kms",1498 CC,5,2014,Manual,WB02,16.95 kmpl,First Owner,Renault Scala RxE,Rs.3.5 Lakh*
+407,Petrol,"42,118 kms",998 CC,5,2013,Manual,WB02,20.51 kmpl,First Owner,Maruti Wagon R VXI,Rs.3.1 Lakh*
+408,Petrol,"50,000 kms",1197 CC,5,2013,Manual,WB24,21.21 kmpl,First Owner,Maruti Swift VXI,Rs.3.5 Lakh*
+409,Diesel,"42,154 kms",1248 CC,5,2017,Manual,WB02,24.3 kmpl,First Owner,Maruti Vitara Brezza VDi Option,Rs.6.4 Lakh*
+410,Diesel,"38,000 kms",1498 CC,5,2016,Manual,WB12,26.0 kmpl,First Owner,Honda City i DTec VX Option,Rs.6.58 Lakh*
+411,Diesel,"59,000 kms",2477 CC,7,2015,Automatic,WB02,13.5 kmpl,First Owner,Mitsubishi Pajero Sport 4X2 AT,Rs.13.79 Lakh*
+412,Petrol,"23,200 kms",1196 CC,5,2012,Manual,WB22,15.6 kmpl,First Owner,Ford Figo Petrol ZXI,Rs.2.35 Lakh*
+413,Diesel,"60,000 kms",2393 CC,8,2017,Manual,WB42,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 VX MT 8 STR,Rs.15.5 Lakh*
+414,Diesel,"39,756 kms",1461 CC,5,2013,Manual,WB02,19.01 kmpl,First Owner,Renault Duster 110PS Diesel RxZ,Rs.4.25 Lakh*
+415,Diesel,"24,448 kms",1248 CC,7,2016,Manual,WB20,24.52 kmpl,First Owner,Maruti Ertiga SHVS VDI,Rs.7.25 Lakh*
+416,Petrol,"14,116 kms",796 CC,5,2009,Manual,WB38,19.7 kmpl,First Owner,Maruti Alto LXi BSIII,Rs.1.55 Lakh*
+417,Petrol,"46,261 kms",1497 CC,5,2008,Manual,WB02,17.7 kmpl,First Owner,Honda City 2017-2020 GXi,Rs.2.1 Lakh*
+418,Diesel,"48,055 kms",1461 CC,5,2011,Manual,WB06,23.08 kmpl,First Owner,Nissan Micra Diesel XV,Rs.2.65 Lakh*
+419,Diesel,"46,000 kms",1995 CC,5,2014,Automatic,WB02,17.05 kmpl,First Owner,BMW X1 sDrive20d,Rs.13.85 Lakh*
+420,Petrol,"40,000 kms",1799 CC,5,2008,Automatic,DL04,12.9 kmpl,First Owner,Honda Civic 1.8 V AT,Rs.2.5 Lakh*
+421,Diesel,"54,000 kms",1968 CC,5,2012,Automatic,WB06,20.0 kmpl,First Owner,Skoda Laura Ambition 2.0 TDI CR AT,Rs.3.8 Lakh*
+422,Petrol,"25,350 kms",998 CC,5,2010,Manual,WB12,18.9 kmpl,First Owner,Maruti Wagon R VXI BS IV,Rs.1.99 Lakh*
+423,Diesel,"34,000 kms",1598 CC,5,2012,Manual,WB22,20.54 kmpl,First Owner,Volkswagen Vento Diesel Comfortline,Rs.2.55 Lakh*
+424,Petrol,"23,261 kms",1197 CC,5,2016,Manual,WB06,22.0 kmpl,First Owner,Maruti Swift Dzire VXI 1.2 BS IV,Rs.5 Lakh*
+425,Petrol,"22,101 kms",796 CC,5,2013,Manual,WB24,22.74 kmpl,First Owner,Maruti Alto 800 LXI,Rs.2.03 Lakh*
+426,Petrol,"43,425 kms",2497 CC,5,2011,Automatic,WB06,10.8 kmpl,Second Owner,BMW 5 Series 523i,Rs.11.49 Lakh*
+427,Petrol,"60,000 kms",1499 CC,5,2014,Manual,WB02,15.8 kmpl,First Owner,Ford EcoSport 1.5 Ti VCT MT Ambiente,Rs.4.1 Lakh*
+428,Petrol,"39,000 kms",1497 CC,5,2011,Manual,WB06,17.0 kmpl,First Owner,Honda City 1.5 V MT,Rs.3.5 Lakh*
+429,Petrol,"46,935 kms",1197 CC,5,2010,Manual,WB06,20.36 kmpl,First Owner,Hyundai i10 Sportz 1.2,Rs.2.35 Lakh*
+430,Diesel,"68,500 kms",2494 CC,7,2015,Manual,WB02,12.99 kmpl,Second Owner,Toyota Innova 2.5 G (Diesel) 7 Seater,Rs.7.99 Lakh*
+431,Diesel,"56,000 kms",1997 CC,7,2017,Manual,WB42,15.4 kmpl,First Owner,Mahindra Scorpio 1.99 S10,Rs.10.75 Lakh*
+432,Diesel,"29,400 kms",1248 CC,5,2017,Manual,WB02,19.3 kmpl,First Owner,Maruti Swift Dzire VDi,Rs.6.17 Lakh*
+433,Petrol,"31,116 kms",1197 CC,5,2017,Manual,WB02,20.85 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.5.25 Lakh*
+434,Diesel,"43,000 kms",1582 CC,5,2017,Manual,WB12,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX,Rs.8.55 Lakh*
+435,Petrol,"30,030 kms",1498 CC,5,2016,Automatic,WB74,17.97 kmpl,First Owner,Nissan Sunny XL CVT,Rs.5 Lakh*
+436,Petrol,"42,000 kms",1197 CC,5,2009,Manual,WB06,19.0 kmpl,First Owner,Maruti Swift Dzire Tour LXI,Rs.1.89 Lakh*
+437,Petrol,"18,000 kms",814 CC,5,2017,Manual,WB08,21.1 kmpl,First Owner,Hyundai EON Magna Optional,Rs.2.95 Lakh*
+438,Petrol,"46,261 kms",1497 CC,5,2008,Manual,WB02,17.7 kmpl,First Owner,Honda City 2017-2020 GXi,Rs.2.1 Lakh*
+439,Diesel,"48,055 kms",1461 CC,5,2011,Manual,WB06,23.08 kmpl,First Owner,Nissan Micra Diesel XV,Rs.2.65 Lakh*
+440,Diesel,"46,000 kms",1995 CC,5,2014,Automatic,WB02,17.05 kmpl,First Owner,BMW X1 sDrive20d,Rs.13.85 Lakh*
+441,Petrol,"40,000 kms",1799 CC,5,2008,Automatic,DL04,12.9 kmpl,First Owner,Honda Civic 1.8 V AT,Rs.2.5 Lakh*
+442,Petrol,"13,000 kms",1399 CC,8,2013,Manual,WB02,13.7 kmpl,First Owner,Chevrolet Enjoy Petrol LS 8 Seater,Rs.3.5 Lakh*
+443,Diesel,"54,000 kms",1968 CC,5,2012,Automatic,WB06,20.0 kmpl,First Owner,Skoda Laura Ambition 2.0 TDI CR AT,Rs.3.8 Lakh*
+444,Petrol,"25,350 kms",998 CC,5,2010,Manual,WB12,18.9 kmpl,First Owner,Maruti Wagon R VXI BS IV,Rs.1.99 Lakh*
+445,Diesel,"34,000 kms",1598 CC,5,2012,Manual,WB22,20.54 kmpl,First Owner,Volkswagen Vento Diesel Comfortline,Rs.2.55 Lakh*
+446,Petrol,"23,261 kms",1197 CC,5,2016,Manual,WB06,22.0 kmpl,First Owner,Maruti Swift Dzire VXI 1.2 BS IV,Rs.5 Lakh*
+447,Petrol,"22,101 kms",796 CC,5,2013,Manual,WB24,22.74 kmpl,First Owner,Maruti Alto 800 LXI,Rs.2.03 Lakh*
+448,Petrol,"43,425 kms",2497 CC,5,2011,Automatic,WB06,10.8 kmpl,Second Owner,BMW 5 Series 523i,Rs.11.49 Lakh*
+449,Petrol,"60,000 kms",1499 CC,5,2014,Manual,WB02,15.8 kmpl,First Owner,Ford EcoSport 1.5 Ti VCT MT Ambiente,Rs.4.1 Lakh*
+450,Diesel,"57,000 kms",1248 CC,5,2016,Manual,WB26,26.59 kmpl,First Owner,Maruti Swift Dzire ZDI,Rs.5.15 Lakh*
+451,Petrol,"56,000 kms",1197 CC,5,2009,Manual,WB06,20.36 kmpl,Second Owner,Hyundai i10 Sportz,Rs.1.9 Lakh*
+452,Petrol,"39,000 kms",1497 CC,5,2011,Manual,WB06,17.0 kmpl,First Owner,Honda City 1.5 V MT,Rs.3.5 Lakh*
+453,Petrol,"46,935 kms",1197 CC,5,2010,Manual,WB06,20.36 kmpl,First Owner,Hyundai i10 Sportz 1.2,Rs.2.35 Lakh*
+454,Diesel,"68,500 kms",2494 CC,7,2015,Manual,WB02,12.99 kmpl,Second Owner,Toyota Innova 2.5 G (Diesel) 7 Seater,Rs.7.99 Lakh*
+455,Diesel,"56,000 kms",1997 CC,7,2017,Manual,WB42,15.4 kmpl,First Owner,Mahindra Scorpio 1.99 S10,Rs.10.75 Lakh*
+456,Petrol,"42,000 kms",1197 CC,5,2016,Manual,WB08,18.6 kmpl,First Owner,Hyundai i20 Sportz 1.2,Rs.4.85 Lakh*
+457,Diesel,"29,400 kms",1248 CC,5,2017,Manual,WB02,19.3 kmpl,First Owner,Maruti Swift Dzire VDi,Rs.6.17 Lakh*
+458,Petrol,"31,116 kms",1197 CC,5,2017,Manual,WB02,20.85 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.5.25 Lakh*
+459,Diesel,"43,000 kms",1582 CC,5,2017,Manual,WB12,19.67 kmpl,First Owner,Hyundai Creta 1.6 CRDi SX,Rs.8.55 Lakh*
+460,Petrol,"30,030 kms",1497 CC,5,2017,Manual,WB02,17.0 kmpl,First Owner,Ford EcoSport 1.5 Petrol Titanium BSIV,Rs.6.5 Lakh*
+461,Diesel,"57,000 kms",1498 CC,5,2016,Manual,WB02,26.0 kmpl,First Owner,Honda City i DTec SV,Rs.5.5 Lakh*
+462,Petrol,"30,030 kms",1498 CC,5,2016,Automatic,WB74,17.97 kmpl,First Owner,Nissan Sunny XL CVT,Rs.5 Lakh*
+463,Diesel,"11,000 kms",1248 CC,5,2018,Manual,WB02,28.09 kmpl,First Owner,Maruti Ciaz 1.3 Alpha,Rs.8.5 Lakh*
+464,Petrol,"42,000 kms",1197 CC,5,2009,Manual,WB06,19.0 kmpl,First Owner,Maruti Swift Dzire Tour LXI,Rs.1.89 Lakh*
+465,Petrol,"56,960 kms",1199 CC,5,2016,Manual,WB08,16.2 kmpl,First Owner,Volkswagen Polo 2015-2019 1.2 MPI Highline,Rs.4.55 Lakh*
+466,Petrol,"34,000 kms",1497 CC,5,2011,Manual,WB06,17.0 kmpl,First Owner,Honda City 1.5 V MT,Rs.3.4 Lakh*
+467,Diesel,"25,225 kms",1396 CC,5,2015,Manual,WB26,21.19 kmpl,Second Owner,Hyundai i20 Active S Diesel,Rs.5.25 Lakh*
+468,Diesel,"64,176 kms",2179 CC,8,2013,Manual,WB26,12.05 kmpl,First Owner,Mahindra Scorpio VLX 2WD BSIV,Rs.6.49 Lakh*
+469,Diesel,"48,304 kms",1248 CC,5,2013,Manual,WB02,23.4 kmpl,First Owner,Maruti Swift Dzire ZDI,Rs.4.25 Lakh*
+470,Petrol,"32,180 kms",1197 CC,5,2010,Manual,WB06,20.36 kmpl,First Owner,Hyundai i10 Magna 1.2,Rs.2 Lakh*
+471,Petrol,"34,000 kms",1197 CC,5,2017,Manual,WB08,18.6 kmpl,First Owner,Hyundai i20 1.2 Spotz,Rs.5.25 Lakh*
+472,Diesel,"38,000 kms",1461 CC,5,2015,Manual,WB02,20.45 kmpl,First Owner,Renault Duster 85PS Diesel RxL,Rs.4.65 Lakh*
+473,Petrol,694 kms,998 CC,5,2021,Automatic,WB02,21.7 kmpl,First Owner,Maruti S-Presso VXI Plus AT,Rs.4.75 Lakh*
+474,Diesel,"26,600 kms",1461 CC,8,2017,Manual,WB20,19.98 kmpl,First Owner,Renault Lodgy Stepway 110PS RXZ 8S,Rs.5.81 Lakh*
+475,Diesel,"42,000 kms",1498 CC,5,2013,Manual,WB12,25.8 kmpl,First Owner,Honda Amaze EX i-Dtech,Rs.3.19 Lakh*
+476,Diesel,"19,000 kms",1396 CC,5,2016,Manual,WB02,22.54 kmpl,First Owner,Hyundai i20 2015-2017 Sportz Option 1.4 CRDi,Rs.5.25 Lakh*
+477,Petrol,"45,200 kms",1497 CC,5,2010,Manual,WB06,16.8 kmpl,First Owner,Honda City S,Rs.2.6 Lakh*
+478,Petrol,"36,000 kms",1197 CC,5,2012,Manual,WB02,20.36 kmpl,First Owner,Hyundai i10 Sportz,Rs.2.65 Lakh*
+479,Petrol,"16,000 kms",799 CC,5,2017,Manual,WB02,25.17 kmpl,First Owner,Renault KWID RXL,Rs.3 Lakh*
+480,Petrol,"32,000 kms",1197 CC,5,2014,Manual,WB02,20.36 kmpl,Second Owner,Hyundai i10 Magna,Rs.2.85 Lakh*
+481,Petrol,"45,000 kms",1086 CC,5,2009,Manual,WB06,17.92 kmpl,First Owner,Hyundai Santro Xing GLS,Rs.1.48 Lakh*
+482,Petrol,694 kms,998 CC,5,2021,Automatic,WB02,21.7 kmpl,First Owner,Maruti S-Presso VXI Plus AT,Rs.4.75 Lakh*
+483,Diesel,"50,000 kms",1248 CC,5,2014,Manual,WB02,23.2 kmpl,First Owner,Maruti Ritz VDi,Rs.2.8 Lakh*
+484,Diesel,"35,687 kms",1498 CC,5,2014,Manual,WB06,20.14 kmpl,First Owner,Volkswagen Polo 1.5 TDI Highline,Rs.3.25 Lakh*
+485,Diesel,"45,550 kms",1396 CC,5,2011,Manual,WB06,21.9 kmpl,First Owner,Hyundai i20 Magna 1.4 CRDi,Rs.2.4 Lakh*
+486,Diesel,"45,000 kms",1968 CC,5,2013,Manual,WB02,20.6 kmpl,First Owner,Skoda Octavia Ambition 2.0 TDI MT,Rs.4.75 Lakh*
+487,Petrol,"28,000 kms",1298 CC,5,2005,Manual,WB02,15.9 kmpl,First Owner,Maruti Esteem Vxi,Rs.1.25 Lakh*
+488,Petrol,"25,000 kms",1997 CC,5,2011,Automatic,WB06,13.4 kmpl,First Owner,Renault Fluence 2.0,Rs.4.5 Lakh*
+489,Diesel,"35,000 kms",2393 CC,7,2016,Manual,WB12,13.68 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.4 ZX MT BSIV,Rs.16.75 Lakh*
+490,Petrol,"38,000 kms",1497 CC,5,2016,Manual,WB02,17.8 kmpl,First Owner,Honda City i VTEC VX Option,Rs.6.75 Lakh*
+491,Diesel,"39,000 kms",1498 CC,7,2014,Manual,WB02,24.2 kmpl,First Owner,Honda Mobilio S i DTEC,Rs.4.69 Lakh*
+492,Petrol,"49,000 kms",1497 CC,5,2011,Automatic,WB06,15.6 kmpl,First Owner,Honda City V AT,Rs.3.55 Lakh*
+493,Petrol,"36,500 kms",1197 CC,5,2014,Manual,WB02,18.6 kmpl,First Owner,Hyundai i20 2015-2017 Era 1.2,Rs.2.99 Lakh*
+494,Petrol,"39,500 kms",999 CC,5,2015,Manual,WB08,18.88 kmpl,First Owner,Ford EcoSport 1.0 Ecoboost Titanium Plus BSIV BE,Rs.3.99 Lakh*
+495,Petrol,"48,000 kms",1086 CC,5,2014,Manual,WB02,19.81 kmpl,First Owner,Hyundai i10 Magna 1.1L,Rs.2.85 Lakh*
+496,Petrol,"68,000 kms",998 CC,5,2009,Manual,WB06,18.9 kmpl,First Owner,Maruti Wagon R VXI BSIII,Rs.1.75 Lakh*
+497,Petrol,"34,295 kms",1497 CC,5,2015,Manual,WB16,17.4 kmpl,First Owner,Honda City i VTEC SV,Rs.5.65 Lakh*
+498,Petrol,"28,175 kms",796 CC,5,2018,Manual,WB08,24.7 kmpl,First Owner,Maruti Alto 800 LXI,Rs.2.85 Lakh*
+499,Petrol,"34,000 kms",1197 CC,5,2016,Manual,WB02,18.6 kmpl,First Owner,Hyundai i20 Magna 1.2,Rs.4.9 Lakh*
+500,Petrol,"28,000 kms",1497 CC,5,2015,Automatic,WB02,18.0 kmpl,First Owner,Honda City i VTEC CVT SV,Rs.5.75 Lakh*
+501,Petrol,"47,000 kms",1197 CC,5,2010,Manual,WB06,16.1 kmpl,First Owner,Maruti Swift VXi BSIV,Rs.2.2 Lakh*
+502,Diesel,"47,000 kms",1498 CC,5,2016,Manual,WB02,26.0 kmpl,First Owner,Honda City i DTec SV,Rs.5 Lakh*
+503,Petrol,"45,200 kms",1497 CC,7,2016,Manual,WB02,17.3 kmpl,First Owner,Honda Mobilio S i VTEC,Rs.3.35 Lakh*
+504,Petrol,"44,000 kms",1591 CC,5,2013,Manual,WB02,17.01 kmpl,First Owner,Hyundai Verna 1.6 EX VTVT,Rs.3.25 Lakh*
+505,Diesel,"95,000 kms",1493 CC,7,2018,Manual,WB02,16.5 kmpl,First Owner,Mahindra Bolero Power Plus SLE,Rs.5.75 Lakh*
+506,Petrol,"35,000 kms",1197 CC,5,2017,Manual,WB12,18.6 kmpl,First Owner,Hyundai i20 1.2 Spotz,Rs.5.25 Lakh*
+507,Petrol,"50,000 kms",1497 CC,5,2011,Automatic,WB06,16.8 kmpl,First Owner,Honda City 1.5 V AT,Rs.3.25 Lakh*
+508,Diesel,"1,30,130 kms",1248 CC,5,2016,Manual,WB74,25.2 kmpl,First Owner,Maruti Swift LDI BSIV,Rs.3.95 Lakh*
+509,Petrol,"50,000 kms",998 CC,5,2010,Manual,WB06,18.2 kmpl,First Owner,Maruti Zen Estilo LXI BSIII,Rs.1.6 Lakh*
+510,Diesel,"69,000 kms",1461 CC,5,2013,Manual,WB02,20.45 kmpl,First Owner,Renault Duster 85PS Diesel RxE,Rs.3.5 Lakh*
+511,Petrol,"52,000 kms",1299 CC,5,2008,Manual,WB06,13.8 kmpl,First Owner,Ford Ikon 1.3 Flair,"Rs.90,000*"
+512,Diesel,"23,000 kms",1461 CC,8,2019,Manual,WB20,19.98 kmpl,First Owner,Renault Lodgy Stepway 110PS RXZ 8S,Rs.7.5 Lakh*
+513,Diesel,"12,200 kms",1597 CC,5,2019,Manual,WB02,26.8 kmpl,First Owner,Honda Civic VX Diesel BSIV,Rs.17.65 Lakh*
+514,Petrol,"42,000 kms",1497 CC,5,2015,Manual,WB06,17.4 kmpl,First Owner,Honda City i VTEC VX Option,Rs.5.75 Lakh*
+515,Petrol,"3,000 kms",1199 CC,5,2019,Automatic,WB06,19.0 kmpl,First Owner,Honda Amaze 2016-2021 VX CVT Petrol BSIV,Rs.7.5 Lakh*
+516,Petrol,"9,000 kms",1598 CC,5,2012,Manual,WB02,15.26 kmpl,First Owner,Volkswagen Polo Petrol Highline 1.6L,Rs.3.25 Lakh*
+517,Petrol,"27,000 kms",1591 CC,5,2016,Manual,MH02,15.8 kmpl,First Owner,Hyundai Creta 1.6 E,Rs.8.1 Lakh*
+518,Petrol,"36,590 kms",1462 CC,7,2014,Manual,MH46,19.01 kmpl,First Owner,Maruti Ertiga ZXI,Rs.6.25 Lakh*
+519,Petrol,"16,000 kms",1991 CC,5,2017,Automatic,MH04,14.74 kmpl,First Owner,Mercedes-Benz C-Class C 200 AVANTGARDE,Rs.32 Lakh*
+520,Diesel,"46,000 kms",2987 CC,5,2017,Automatic,MH01,18.0 kmpl,First Owner,Mercedes-Benz E-Class E 350 d BSIV,Rs.44.1 Lakh*
+521,Diesel,"22,000 kms",1995 CC,5,2015,Automatic,MH02,18.88 kmpl,Second Owner,BMW 3 Series 320d Sport Line,Rs.20.5 Lakh*
+522,Diesel,"86,000 kms",1248 CC,7,2014,Manual,MH03,25.47 kmpl,First Owner,Maruti Ertiga ZDI,Rs.6.5 Lakh*
+523,Petrol,"34,571 kms",998 CC,5,2014,Manual,MH12,21.79 kmpl,First Owner,Maruti Wagon R VXI,Rs.3.7 Lakh*
+524,Diesel,"83,000 kms",1248 CC,5,2015,Manual,MH12,28.4 kmpl,First Owner,Maruti Swift ZDI,Rs.6.15 Lakh*
+525,Petrol,"28,000 kms",1197 CC,5,2018,Manual,MH12,21.4 kmpl,First Owner,Maruti Baleno Delta 1.2,Rs.6.5 Lakh*
+526,Diesel,"90,000 kms",2755 CC,7,2016,Automatic,MH12,11.36 kmpl,First Owner,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,Rs.18 Lakh*
+527,Petrol,"70,483 kms",995 CC,5,2008,Manual,MH17,18.0 kmpl,First Owner,Chevrolet Spark 1.0 LT,Rs.1.5 Lakh*
+528,Petrol,"80,000 kms",1086 CC,5,2011,Manual,MH14,19.81 kmpl,Second Owner,Hyundai i10 Era,Rs.2.45 Lakh*
+529,Diesel,"68,000 kms",1598 CC,5,2011,Manual,MH15,20.54 kmpl,Second Owner,Volkswagen Vento Diesel Highline,Rs.3.8 Lakh*
+530,Petrol,"76,000 kms",1197 CC,5,2011,Manual,MH12,18.6 kmpl,First Owner,Maruti Swift ZXI,Rs.3.35 Lakh*
+531,Petrol,"41,000 kms",5461 CC,5,2016,Automatic,MH01,7.81 kmpl,First Owner,Mercedes-Benz S-Class S 500,Rs.1.1 Cr*
+532,Diesel,"78,960 kms",1461 CC,5,2014,Manual,MH12,19.87 kmpl,Second Owner,Renault Duster 85PS Diesel RxL Explore,Rs.5.65 Lakh*
+533,Petrol,"36,483 kms",1197 CC,5,2013,Manual,MH12,20.85 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.4.75 Lakh*
+534,Diesel,"95,429 kms",1498 CC,5,2014,Manual,MH12,20.34 kmpl,Second Owner,Volkswagen Vento 1.5 TDI Comfortline,Rs.4.85 Lakh*
+535,Petrol,"32,000 kms",998 CC,5,2016,Automatic,MH14,23.95 kmpl,First Owner,Maruti Alto K10 VXI AGS,Rs.3.75 Lakh*
+536,Petrol,"15,000 kms",796 CC,5,2018,Manual,MH14,14.0 kmpl,First Owner,Maruti Omni 8 Seater BSIV,Rs.3.1 Lakh*
+537,Petrol,"92,000 kms",1086 CC,5,2013,Manual,MH14,19.81 kmpl,First Owner,Hyundai i10 Era 1.1 iTech SE,Rs.3.45 Lakh*
+538,Diesel,"1,30,000 kms",1248 CC,5,2016,Manual,MH12,17.8 kmpl,First Owner,Maruti Swift VDI BSIV,Rs.5.6 Lakh*
+539,Diesel,"1,00,001 kms",1248 CC,5,2016,Manual,MH14,28.09 kmpl,First Owner,Maruti Ciaz VDi Option SHVS,Rs.6.8 Lakh*
+540,Petrol,"10,000 kms",1197 CC,5,2019,Manual,MH12,21.4 kmpl,First Owner,Maruti Baleno Zeta 1.2,Rs.7.9 Lakh*
+541,Diesel,"86,000 kms",1968 CC,5,2012,Manual,MH12,18.33 kmpl,Second Owner,Volkswagen Passat Diesel Comfortline 2.0 TDI,Rs.7.25 Lakh*
+542,Petrol,"86,000 kms",1373 CC,7,2014,Manual,MH14,16.02 kmpl,First Owner,Maruti Ertiga VXI ABS,Rs.6.4 Lakh*
+543,Diesel,"1,22,000 kms",1995 CC,5,2014,Automatic,MH02,13.2 kmpl,First Owner,BMW 3 Series 320d,Rs.13.5 Lakh*
+544,Diesel,"41,000 kms",1498 CC,5,2017,Manual,MH12,21.7 kmpl,First Owner,Ford EcoSport 1.5 Diesel Titanium,Rs.9 Lakh*
+545,Petrol,"49,000 kms",1197 CC,5,2011,Automatic,MH12,16.95 kmpl,Second Owner,Hyundai i10 Sportz AT,Rs.2.9 Lakh*
+546,Petrol,"51,593 kms",998 CC,5,2014,Automatic,MH01,23.1 kmpl,First Owner,Maruti Celerio VXI AT,Rs.3.47 Lakh*
+547,Diesel,"98,000 kms",2477 CC,7,2015,Automatic,MH48,13.5 kmpl,Third Owner,Mitsubishi Pajero Sport 4X2 AT,Rs.12.75 Lakh*
+548,Diesel,"42,000 kms",1968 CC,5,2013,Automatic,MH14,17.11 kmpl,First Owner,Audi A4 2.0 TDI Premium Sport Limited Edition,Rs.13.25 Lakh*
+549,Petrol,"76,000 kms",1197 CC,5,2011,Manual,MH12,18.6 kmpl,First Owner,Maruti Swift ZXI,Rs.3.35 Lakh*
+550,Petrol,"41,000 kms",5461 CC,5,2016,Automatic,MH01,7.81 kmpl,First Owner,Mercedes-Benz S-Class S 500,Rs.1.1 Cr*
+551,Diesel,"78,960 kms",1461 CC,5,2014,Manual,MH12,19.87 kmpl,Second Owner,Renault Duster 85PS Diesel RxL Explore,Rs.5.65 Lakh*
+552,Petrol,"36,483 kms",1197 CC,5,2013,Manual,MH12,20.85 kmpl,First Owner,Maruti Swift Dzire VXI,Rs.4.75 Lakh*
+553,Diesel,"95,429 kms",1498 CC,5,2014,Manual,MH12,20.34 kmpl,Second Owner,Volkswagen Vento 1.5 TDI Comfortline,Rs.4.85 Lakh*
+554,Petrol,"32,000 kms",998 CC,5,2016,Automatic,MH14,23.95 kmpl,First Owner,Maruti Alto K10 VXI AGS,Rs.3.75 Lakh*
+555,Petrol,"15,000 kms",796 CC,5,2018,Manual,MH14,14.0 kmpl,First Owner,Maruti Omni 8 Seater BSIV,Rs.3.1 Lakh*
+556,Petrol,"92,000 kms",1086 CC,5,2013,Manual,MH14,19.81 kmpl,First Owner,Hyundai i10 Era 1.1 iTech SE,Rs.3.45 Lakh*
+557,Diesel,"1,30,000 kms",1248 CC,5,2016,Manual,MH12,17.8 kmpl,First Owner,Maruti Swift VDI BSIV,Rs.5.6 Lakh*
+558,Diesel,"1,00,001 kms",1248 CC,5,2016,Manual,MH14,28.09 kmpl,First Owner,Maruti Ciaz VDi Option SHVS,Rs.6.8 Lakh*
+559,Diesel,"86,000 kms",1968 CC,5,2012,Manual,MH12,18.33 kmpl,Second Owner,Volkswagen Passat Diesel Comfortline 2.0 TDI,Rs.7.25 Lakh*
+560,Petrol,"86,000 kms",1373 CC,7,2014,Manual,MH14,16.02 kmpl,First Owner,Maruti Ertiga VXI ABS,Rs.6.4 Lakh*
+561,Diesel,"1,22,000 kms",1995 CC,5,2014,Automatic,MH02,13.2 kmpl,First Owner,BMW 3 Series 320d,Rs.13.5 Lakh*
+562,Petrol,"51,593 kms",998 CC,5,2014,Automatic,MH01,23.1 kmpl,First Owner,Maruti Celerio VXI AT,Rs.3.47 Lakh*
+563,Diesel,"98,000 kms",2477 CC,7,2015,Automatic,MH48,13.5 kmpl,Third Owner,Mitsubishi Pajero Sport 4X2 AT,Rs.12.75 Lakh*
+564,Diesel,"42,000 kms",1968 CC,5,2013,Automatic,MH14,17.11 kmpl,First Owner,Audi A4 2.0 TDI Premium Sport Limited Edition,Rs.13.25 Lakh*
+565,Diesel,"1,76,000 kms",1248 CC,5,2009,Manual,MH12,19.3 kmpl,First Owner,Maruti Swift Dzire VDi,Rs.3.25 Lakh*
+566,Petrol,"66,000 kms",1197 CC,5,2015,Manual,MH12,18.6 kmpl,First Owner,Hyundai i20 2015-2017 Asta Option 1.2,Rs.5.49 Lakh*
+567,Petrol,"8,874 kms",1197 CC,5,2014,Manual,MH48,18.9 kmpl,Second Owner,Hyundai Grand i10 Magna,Rs.3.72 Lakh*
+568,Diesel,"1,37,000 kms",1248 CC,5,2009,Manual,MH04,26.59 kmpl,Second Owner,Maruti Swift Dzire VDI,Rs.2.61 Lakh*
